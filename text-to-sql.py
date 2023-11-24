@@ -1,3 +1,6 @@
+#text-to-sql using langchain, g4f
+#Amar nov25 
+
 import streamlit as st
 
 from g4f import Provider, models
@@ -44,8 +47,8 @@ def generate_response(openai_api_key,input_text,database_uri,use_free_version):
       response = db_chain(input_text)
       intermediateSteps=response["intermediate_steps"]
      #answer=response["result"]
-      st.info(response)
-      st.info(intermediateSteps)
+      st.info(response["result"])
+      #st.info(intermediateSteps)
      except Exception as e:
       st.info(e) 
      
@@ -64,7 +67,7 @@ def generate_response(openai_api_key,input_text,database_uri,use_free_version):
 with st.form('data_form'):
   question = st.text_area('Enter a question in natural language for the AI on the  omdb movies postgres database')
   database_uri = st.text_area("share a sqlachemy compatible uri for a remote sql based db if you want to use another dataset ")
-  use_free_version = st.checkbox(" use free gpt4free and langchaingpt4free instead of openai, may be slow")
+  use_free_version = st.checkbox(" use free version with g4f and langchaing4f instead of openai, may be slow")
   openai_api_key =st.text_area('Please enter your OpenAI API Key if you wanna used the paid api,ensure you have credits')
 
   st.text("currently used database is omdb hosted on neon sql with the following format :postgresql+psycopg2://username:password@ep-floral-frog-97311990-pooler.ap-southeast-1.aws.neon.tech/omdb?sslmode=require&options=endpoint%3Dep%2Dfloral%2Dfrog%2D97311990%2Dpooler")
