@@ -10,12 +10,6 @@ gpt3.5 isn't the best, but the sanest option at this point.
 
 Setup:
 pip install -r requirements.txt --user
-streamlit is optional, but it seemed good enough for deploying and hosting the solution
+streamlit is optional, but it seemed good enough for getting an interface going and hosting the solution, plus i like the way i works with github actions
 
-create .env file with the following value
-OPEN_API_KEY= key_obtained_from_openai_website
-
-Run the script using command line/terminal/powershell with the following syntax
-python text-to-sql.py "query"
-egs:
-python text-to-sql.py "Combine two user tables a and b to identify the common customers"
+:P Amar

@@ -1,8 +1,6 @@
-from huggingface_hub import login
 import os 
 
 import streamlit as st
-from dotenv import load_dotenv #for loading hugging face api key from .env file
 from langchain.llms import OpenAI
 from langchain.utilities import SQLDatabase
 from langchain_experimental.sql import SQLDatabaseChain
