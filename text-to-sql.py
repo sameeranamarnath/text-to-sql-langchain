@@ -26,11 +26,12 @@ openai_api_key = st.sidebar.text_input('Please enter your OpenAI API Key')
 
 with st.form('my_form'):
   question = st.text_area('Enter a question in natural language for the AI on the  imdb movies sqlite database')
-  database = st.file_uploader("Choose a file")
-  if uploaded_file is not None:
+  database = st.file_uploader("Choose a database file in sqlite,")
+  if database is not None:
     # To read file as bytes:
-    bytes_data = uploaded_file.getvalue()
+    bytes_data = database.getvalue()
     st.write(bytes_data)
+
   submitted = st.form_submit_button('Submit')
   if not openai_api_key.startswith('sk-'):
     st.warning('Please enter your OpenAI API key!', icon='⚠')
