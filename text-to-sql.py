@@ -5,8 +5,8 @@ from langchain_experimental.sql import SQLDatabaseChain
 
 
 
-def generate_response(input_text,database_uri="postgresql+psycopg2://default:GT4dg3OemzlA@ep-curly-violet-36509009.us-east-1.postgres.vercel-storage.com:5432/verceldb"):     
-     if database_uri is None:
+def generate_response(input_text,database_uri):     
+     if not database_uri:
       db = SQLDatabase.from_uri("postgresql+psycopg2://default:GT4dg3OemzlA@ep-curly-violet-36509009.us-east-1.postgres.vercel-storage.com:5432/verceldb")
      else:
       db = SQLDatabase.from_uri(database_uri)
