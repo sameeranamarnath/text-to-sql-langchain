@@ -48,23 +48,24 @@ def generate_response(openai_api_key,input_text,database_uri,use_free_version):
       st.info(intermediateSteps)
      except Exception as e:
       st.info(e) 
-     '''
-     agent_executor = create_sql_agent(
-    llm=llm,
-    toolkit=toolkit,
-    verbose=True,
-    agent_type=AgentType.ZERO_SHOT_REACT_DESCRIPTION,
-      handle_parsing_errors=True
-    )
-     st.info(agent_executor.run(question))
-     '''
+     
+     """ 
+       agent_executor = create_sql_agent(
+               llm=llm,
+               toolkit=toolkit,
+               verbose=True,
+               agent_type=AgentType.ZERO_SHOT_REACT_DESCRIPTION,
+                    handle_parsing_errors=True
+               )
+          st.info(agent_executor.run(question))
+     """ 
      
 
 with st.form('data_form'):
   question = st.text_area('Enter a question in natural language for the AI on the  omdb movies postgres database')
   database_uri = st.text_area("share a sqlachemy compatible uri for a remote sql based db if you want to use another dataset ")
-  use_free_version = st.checkbox(" free gpt4free and langchaingpt4free instead of openai, quite slow")
-  openai_api_key =st.text_area('Please enter your OpenAI API Key')
+  use_free_version = st.checkbox(" use free gpt4free and langchaingpt4free instead of openai, may be slow")
+  openai_api_key =st.text_area('Please enter your OpenAI API Key if you wanna used the paid api,ensure you have credits')
 
   st.text("currently used database is omdb hosted on neon sql with the following format :postgresql+psycopg2://username:password@ep-floral-frog-97311990-pooler.ap-southeast-1.aws.neon.tech/omdb?sslmode=require&options=endpoint%3Dep%2Dfloral%2Dfrog%2D97311990%2Dpooler")
 
