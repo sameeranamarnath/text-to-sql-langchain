@@ -14,6 +14,8 @@ from langchain.agents import create_sql_agent
 from langchain.agents.agent_types import AgentType
 from langchain.agents.agent_toolkits import SQLDatabaseToolkit
 import os
+from dotenv import load_dotenv 
+
 
 
 
@@ -27,6 +29,8 @@ st.title('Run Sql queries on database using natural language via langchain & gpt
 #        provider=Provider.Bing,
 #    )
 #print(llm2("hello stranger"))
+
+load_dotenv()
 def generate_response(openai_api_key,input_text,database_uri,use_free_version): 
      
      if not database_uri:
