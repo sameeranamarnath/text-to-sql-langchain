@@ -29,5 +29,5 @@ in case you want to try the free version without using openai api_key,
 you can just use the llm 
 :P Amar
 
-you can access a live version at
-https://text-to-sql-langchain-amar.streamlit.app/
+you can access a live version by running it from
+codespaces
