@@ -27,8 +27,11 @@ st.title('Run Sql queries on database using natural language via langchain & gpt
 #        provider=Provider.Bing,
 #    )
 #print(llm2("hello stranger"))
-def generate_response(openai_api_key,input_text,database_uri,use_free_version):  
+def generate_response(openai_api_key,input_text,database_uri,use_free_version): 
+     
      if not database_uri:
+      existingConnector =  os.environ["omdb_url"]
+      #sample format: postgresql+psycopg2://username:password@ep-floral-frog-97311990-pooler.ap-southeast-1.aws.neon.tech/omdb?sslmode=require&options=endpoint%3Dep%2Dfloral%2Dfrog%2D97311990%2Dpooler
       db = SQLDatabase.from_uri(f"postgresql+psycopg2://sameeranamarnath:P6UClH5XpDdr@ep-floral-frog-97311990-pooler.ap-southeast-1.aws.neon.tech/omdb?sslmode=require&options=endpoint%3Dep%2Dfloral%2Dfrog%2D97311990%2Dpooler")
      else:
       db = SQLDatabase.from_uri(database_uri)
