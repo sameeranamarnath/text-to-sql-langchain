@@ -5,7 +5,7 @@ from langchain_experimental.sql import SQLDatabaseChain
 
 
 
-def generate_response(input_text,database_uri="postgres://default:GT4dg3OemzlA@ep-curly-violet-36509009.us-east-1.postgres.vercel-storage.com:5432/verceldb"):     
+def generate_response(input_text,database_uri="postgresql+psycopg2://default:GT4dg3OemzlA@ep-curly-violet-36509009.us-east-1.postgres.vercel-storage.com:5432/verceldb"):     
      db = SQLDatabase.from_uri(database_uri)
      llm = OpenAI(temperature=0, verbose=True, openai_api_key=openai_api_key)
      db_chain = SQLDatabaseChain.from_llm(llm, db, verbose=True)
