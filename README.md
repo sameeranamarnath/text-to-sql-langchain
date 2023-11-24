@@ -13,3 +13,6 @@ pip install -r requirements.txt --user
 streamlit is optional, but it seemed good enough for getting an interface going and hosting the solution, plus i like the way i works with github actions
 
 :P Amar
+
+you can access a live version at
+https://text-to-sql-langchain-amar.streamlit.app/
