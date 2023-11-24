@@ -1,7 +1,7 @@
 psycopg2-binary
-sqlalchemy
 langchain-experimental
 openai
 python-dotenv
 langchain
 streamlit
+psycopg2

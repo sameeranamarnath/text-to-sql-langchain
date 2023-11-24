@@ -2,7 +2,7 @@ import streamlit as st
 from langchain.llms import OpenAI
 from langchain.utilities import SQLDatabase
 from langchain_experimental.sql import SQLDatabaseChain
-
+import psycopg2
 
 
 def generate_response(input_text,database_uri):     
