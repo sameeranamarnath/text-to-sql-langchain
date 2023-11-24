@@ -3,17 +3,18 @@ gpt3.5 and runs the same on a provided database
 
 this works with any database, i have tried
 imdb-movie.sqlite from kaggle (https://www.kaggle.com/code/priy998/imdb-sqlite/)
-as i am a movie buff
+
 
 uri is
-sqlite:////imdb-movie.sqlite
+sqlite:///imdb-movie.sqlite
 
-I also got the omdb movies database imported into a postgres db
-on Neon, a postgresql via psql and the current version uses the same as 
+I also got the omdb movies database imported into a hosted postgres db
+on Neon service using the scripts at https://github.com/df7cb/omdb-postgresql,,the current version uses the same as 
 the default uri.
 
 uri is
 postgresql+psycopg2://username:password@ep-floral-frog-97311990-pooler.ap-southeast-1.aws.neon.tech/omdb?sslmode=require&options=endpoint%3Dep%2Dfloral%2Dfrog%2D97311990%2Dpooler
+
 
 I tried implementing the same using ctransformers based local quantized llama and nsql llms, but the results proved to be inaccurate and in some situations irrelevant.
 
