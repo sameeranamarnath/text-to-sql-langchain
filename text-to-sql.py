@@ -50,17 +50,16 @@ def generate_response(openai_api_key,input_text,database_uri,use_free_version):
       #st.info(intermediateSteps)
      except Exception as e:
       st.info(e) 
+
+     #   agent_executor = create_sql_agent(
+     #           llm=llm,
+     #           toolkit=toolkit,
+     #           verbose=True,
+     #           agent_type=AgentType.ZERO_SHOT_REACT_DESCRIPTION,
+     #                handle_parsing_errors=True
+     #           )
+     #      st.info(agent_executor.run(question))
      
-     """ 
-       agent_executor = create_sql_agent(
-               llm=llm,
-               toolkit=toolkit,
-               verbose=True,
-               agent_type=AgentType.ZERO_SHOT_REACT_DESCRIPTION,
-                    handle_parsing_errors=True
-               )
-          st.info(agent_executor.run(question))
-     """ 
      
 
 with st.form('data_form'):
