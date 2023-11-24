@@ -10,7 +10,7 @@ sqlite:////imdb-movie.sqlite
 I also got the omdb movies database imported into a postgres db
 on vercel via psql and the current version uses the same as a reference
 uri is
-postgres://default:GT4dg3OemzlA@ep-curly-violet-36509009.us-east-1.postgres.vercel-storage.com:5432/verceldb
+postgresql+psycopg2://default:GT4dg3OemzlA@ep-curly-violet-36509009.us-east-1.postgres.vercel-storage.com:5432/verceldb
 
 I tried implementing the same using ctransformers based local quantized llama and nsql llms, but the results proved to be inaccurate and in some situations irrelevant.
 
