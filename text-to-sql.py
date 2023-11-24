@@ -16,7 +16,6 @@ def generate_response(input_text):
      st.info(db_chain.run(input_text))
 
 
-load_dotenv() #load the hugging face key
 # Model name that we want to use
 # https://huggingface.co/meta-llama/Llama-2-7b-chat-hf
 
