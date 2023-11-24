@@ -19,7 +19,9 @@ openai_api_key = st.sidebar.text_input('Please enter your OpenAI API Key')
 
 with st.form('data_form'):
   question = st.text_area('Enter a question in natural language for the AI on the  omdb movies postgres database')
-  database_uri = st.text_area("share a sqlachemy compatible uri for a remote db if you want to use another dataset, sample:postgres://default:GT4dg3OemzlA@ep-curly-violet-36509009.us-east-1.postgres.vercel-storage.com:5432/verceldb")
+  database_uri = st.text_area("share a sqlachemy compatible uri for a remote sql based db if you want to use another dataset ",
+  "currently used database is :postgresql+psycopg2://default:GT4dg3OemzlA@ep-curly-violet-36509009.us-east-1.postgres.vercel-storage.com:5432/verceldb",
+  "another sample database to try with is: sqlite:////imdb-movie.sqlite which is available locally")
   submitted = st.form_submit_button('Submit')
   if not openai_api_key.startswith('sk-'):
     st.warning('Please enter your OpenAI API key!', icon='⚠')
