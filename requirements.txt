@@ -4,4 +4,6 @@ openai
 python-dotenv
 langchain
 streamlit
+g4f
+git+https://github.com/MIDORIBIN/langchain-gpt4free.git
 

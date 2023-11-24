@@ -23,8 +23,10 @@ gpt3.5 isn't the best, but the sanest option at this point.
 Setup:
 pip install -r requirements.txt --user
 
-streamlit is optional, but it seemed good enough for getting an interface going and hosting the solution, plus i like the way i works with github actions
+streamlit is optional, but it seemed good enough for getting an interface going and hosting the solution, plus i like the way i works with github 
 
+in case you want to try the free version without using openai api_key,
+you can just use the llm 
 :P Amar
 
 you can access a live version at
