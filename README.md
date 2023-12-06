@@ -2,6 +2,7 @@ This generates a sql query from provided text in natural language using
 gpt3.5/4 and runs the same on a provided database uri 
 powered by python, langchain, gpt3.5/4
 
+Click the pic to see it in action:
 [![Sample of the working app:](https://github.com/sameeranamarnath/text-to-sql-langchain/assets/85400557/f1c7ecfe-07ae-4598-8773-6ec2847ff6af)](
 https://clipchamp.com/watch/RuGd8O4BnmA)
 
