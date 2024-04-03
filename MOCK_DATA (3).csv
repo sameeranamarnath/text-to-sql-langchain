@@ -1,0 +1,1001 @@
+Area,Locality,Age,Crime ratio,Nitrogen/CO2 percentage,Adult to Children ratio,Earthquake zone,Government projects,Natural calamities,Rental / Monthly commercial income,ROI,Trend of property cost,Reputation of property developer,Current pricing,Scalable property
+5707,Village C,40,0.79,68.12,0.48,Moderate risk zone,Infrastructure development in rural areas,TRUE,5228.58,14.54,Stable,Average,356533.63,TRUE
+4649,Countryside I,15,0.85,56.45,2.55,High risk zone,Construction of new schools,FALSE,9730.17,79.71,Decreasing,Average,735607.87,FALSE
+5166,Coastal Area J,21,0.32,69.68,0.63,Low risk zone,Expansion of public transportation system,FALSE,2506.88,1.95,Increasing,Good,461701.58,FALSE
+4952,Town B,49,0.44,76.48,3.42,Low risk zone,Expansion of public transportation system,FALSE,9662.49,76.76,Stable,Good,668583.51,TRUE
+3954,Neighborhood F,14,1,3.34,9.41,Low risk zone,Renovation of public parks,FALSE,4650.61,92.41,Stable,Good,401571.14,FALSE
+6624,Urban Area H,44,0.69,5.81,3.25,High risk zone,Infrastructure development in rural areas,TRUE,9655.3,35.32,Decreasing,Average,385164.6,FALSE
+1281,Countryside I,14,0.71,83.43,7.67,High risk zone,Expansion of public transportation system,FALSE,223.77,61.66,Decreasing,Average,736714.18,TRUE
+9472,Neighborhood F,43,0.35,11.71,0.48,Moderate risk zone,Expansion of public transportation system,TRUE,1506.99,46.89,Stable,Terrible,456979.17,TRUE
+5695,Hamlet E,33,0.93,96.33,8.44,Moderate risk zone,Construction of new schools,FALSE,8072.44,11.21,Stable,Average,372396.47,TRUE
+8788,City A,2,0.45,34.98,8.77,High risk zone,Infrastructure development in rural areas,TRUE,9466.06,18.24,Stable,Poor,356462.22,TRUE
+4557,Coastal Area J,15,0.17,37.34,2.13,Low risk zone,Construction of new schools,FALSE,7421.55,80.72,Decreasing,Excellent,609587.69,TRUE
+3355,Countryside I,48,0.88,62.73,7.99,Moderate risk zone,Renovation of public parks,TRUE,4010.39,85.77,Increasing,Average,511922.95,TRUE
+9398,Rural Area G,33,0.18,11.67,2.75,Moderate risk zone,Construction of new schools,TRUE,425.83,37.48,Increasing,Excellent,200892.32,TRUE
+3473,Village C,10,0.45,53.19,3.12,Moderate risk zone,Renovation of public parks,TRUE,3545.01,60.74,Increasing,Excellent,352030.45,FALSE
+3640,Town B,6,0.54,3.81,6.89,Low risk zone,Renovation of public parks,TRUE,2639.23,68.01,Increasing,Good,134903.74,TRUE
+8362,Hamlet E,14,0.26,23.1,3.4,Low risk zone,Expansion of public transportation system,TRUE,5633.93,79.18,Decreasing,Excellent,800418.62,TRUE
+3290,Rural Area G,46,0.47,23.18,7.59,High risk zone,Renovation of public parks,FALSE,5000.81,88.2,Increasing,Excellent,329696.95,FALSE
+4597,Rural Area G,25,0.97,79.4,1.75,Low risk zone,Expansion of public transportation system,FALSE,7506.9,25.53,Increasing,Poor,297024.82,TRUE
+3235,Suburb D,20,0.19,4.69,1.35,Low risk zone,Infrastructure development in rural areas,FALSE,2209.06,56.92,Increasing,Excellent,410121.22,TRUE
+5319,Urban Area H,2,0.71,26.22,3.01,High risk zone,Renovation of public parks,TRUE,6953.27,69.27,Increasing,Poor,405527.35,FALSE
+6459,Urban Area H,28,0.85,89.89,9.29,Low risk zone,Expansion of public transportation system,FALSE,8018.24,68.66,Increasing,Good,514029.96,FALSE
+2477,Coastal Area J,23,0.37,64.55,1.25,Low risk zone,Construction of new schools,TRUE,3485.18,9,Increasing,Good,899039.72,TRUE
+9444,Town B,6,0.63,48.34,1.21,High risk zone,Expansion of public transportation system,FALSE,8756.11,48.34,Decreasing,Average,674278.59,FALSE
+2072,Urban Area H,47,0.78,69.91,5.3,Moderate risk zone,Construction of new schools,FALSE,7094.09,91.76,Increasing,Good,691210.26,FALSE
+2509,Suburb D,11,0.68,34.82,0.15,Moderate risk zone,Construction of new schools,FALSE,5569.69,35.17,Decreasing,Excellent,148353.62,TRUE
+7160,Town B,41,0.79,28.55,9.48,Low risk zone,Expansion of public transportation system,TRUE,2949.6,6.81,Stable,Excellent,249827.27,TRUE
+8736,Neighborhood F,10,0.21,44.43,9.74,High risk zone,Infrastructure development in rural areas,TRUE,1082.24,84.81,Decreasing,Excellent,900918.63,TRUE
+5476,Village C,25,0.78,11.83,1.71,Low risk zone,Renovation of public parks,FALSE,2002.32,78.62,Decreasing,Terrible,138635.63,TRUE
+2177,Urban Area H,32,0.52,25.37,0.92,Moderate risk zone,Construction of new schools,FALSE,8259.46,46.82,Increasing,Poor,717416.8,TRUE
+8416,Countryside I,21,0.56,74.62,2.8,Low risk zone,Expansion of public transportation system,FALSE,2389.25,63.76,Decreasing,Excellent,902230.24,TRUE
+1667,Urban Area H,1,0.84,48.48,6.87,Moderate risk zone,Construction of new schools,TRUE,4771.03,2.86,Increasing,Average,811910.01,TRUE
+7254,Rural Area G,19,0.52,77.66,4,Low risk zone,Infrastructure development in rural areas,FALSE,503.23,48.44,Decreasing,Poor,495565.04,FALSE
+3812,Suburb D,13,0.35,65.23,5.11,High risk zone,Infrastructure development in rural areas,TRUE,3305.89,1.11,Decreasing,Poor,511294.31,FALSE
+1462,Urban Area H,27,0.9,74.29,5.41,High risk zone,Renovation of public parks,TRUE,4623.25,42.67,Decreasing,Average,73812.31,TRUE
+8720,Countryside I,12,0.18,21.04,0.89,Moderate risk zone,Expansion of public transportation system,FALSE,1200.46,25.52,Decreasing,Good,489374.85,FALSE
+3596,Urban Area H,36,0.86,72.73,3.61,High risk zone,Construction of new schools,TRUE,1550.83,66.11,Increasing,Terrible,636742.31,TRUE
+9698,Coastal Area J,24,0.85,26.14,1.55,Moderate risk zone,Renovation of public parks,FALSE,9605.7,19.6,Stable,Average,236061.94,FALSE
+2400,Rural Area G,17,0.28,47.64,4.02,Moderate risk zone,Expansion of public transportation system,TRUE,5978.2,22.48,Decreasing,Terrible,865958.98,TRUE
+9564,Rural Area G,1,0.82,1.41,8.82,Low risk zone,Infrastructure development in rural areas,TRUE,5703.03,98.61,Stable,Average,560199.01,FALSE
+3921,Suburb D,16,0.93,18.42,3.99,Moderate risk zone,Expansion of public transportation system,TRUE,5493.36,35.93,Increasing,Excellent,225373.4,TRUE
+1153,Neighborhood F,17,0.74,78.69,6.88,Low risk zone,Renovation of public parks,TRUE,479.5,40.02,Increasing,Average,557798.65,TRUE
+1911,Neighborhood F,34,0.02,14.27,3.95,Low risk zone,Expansion of public transportation system,TRUE,186.93,86.6,Decreasing,Terrible,475241.82,TRUE
+9100,City A,38,0.25,74.15,9.34,Moderate risk zone,Expansion of public transportation system,TRUE,1231.82,47.98,Stable,Good,718148.23,TRUE
+2849,Countryside I,5,0.56,48.14,4.56,Moderate risk zone,Construction of new schools,FALSE,8796.15,58.35,Increasing,Excellent,315538.39,TRUE
+8692,Village C,31,0.16,34.49,6.26,Moderate risk zone,Infrastructure development in rural areas,FALSE,844.16,54.48,Stable,Good,312428.15,FALSE
+6427,Hamlet E,19,0.34,67.72,2.57,Moderate risk zone,Renovation of public parks,FALSE,3690.28,59.06,Decreasing,Excellent,826776.78,TRUE
+4138,Coastal Area J,32,0.8,59.92,3.14,High risk zone,Construction of new schools,FALSE,9722.42,71.44,Increasing,Terrible,622803.09,FALSE
+5219,City A,47,0.91,49.76,1.93,High risk zone,Expansion of public transportation system,TRUE,3037.64,85.6,Stable,Excellent,544418.22,TRUE
+1065,Suburb D,35,0.53,43.72,1.74,Moderate risk zone,Infrastructure development in rural areas,TRUE,7605.41,51.81,Stable,Good,70506.81,FALSE
+5773,Suburb D,30,0.11,99.04,2.86,Low risk zone,Construction of new schools,FALSE,8216.89,83.91,Stable,Poor,948550.66,TRUE
+1318,Town B,39,0.1,19.85,7.24,High risk zone,Renovation of public parks,TRUE,7958.6,52.03,Stable,Excellent,891542.1,TRUE
+4074,Suburb D,48,0.42,45.76,1.02,Low risk zone,Infrastructure development in rural areas,TRUE,5096.65,56.32,Stable,Good,29835.9,TRUE
+4777,Town B,19,0.7,98.68,8.17,Moderate risk zone,Expansion of public transportation system,TRUE,9246.75,23.98,Stable,Good,347887.48,FALSE
+4455,Rural Area G,36,0.66,77.69,9.19,Low risk zone,Construction of new schools,FALSE,423.3,91,Decreasing,Poor,795886.45,TRUE
+1589,Neighborhood F,48,0.8,84.97,9.76,High risk zone,Construction of new schools,FALSE,7250.2,40.92,Increasing,Average,924023.07,TRUE
+8321,Countryside I,9,0.27,58.94,1.95,Low risk zone,Expansion of public transportation system,FALSE,8331.42,56.15,Stable,Excellent,923434.95,TRUE
+2139,Rural Area G,33,0.11,30.13,4.08,Low risk zone,Renovation of public parks,TRUE,173.75,20.23,Increasing,Poor,801734.58,TRUE
+2759,Suburb D,18,0.78,68.45,4.27,Low risk zone,Expansion of public transportation system,TRUE,3609.89,1.08,Decreasing,Average,247383.59,TRUE
+9774,Village C,8,0.7,87.11,4.55,Moderate risk zone,Expansion of public transportation system,FALSE,2783.81,40.99,Stable,Average,485016.45,FALSE
+9014,Countryside I,42,0.44,90.08,8.7,Moderate risk zone,Expansion of public transportation system,TRUE,3356.08,36.12,Increasing,Terrible,580417.38,FALSE
+2341,Coastal Area J,32,0.37,33.04,1.15,Moderate risk zone,Expansion of public transportation system,FALSE,2607.49,70.98,Increasing,Average,548221.58,FALSE
+1344,Village C,8,0.28,92.56,3.21,Low risk zone,Expansion of public transportation system,TRUE,8658.04,13.25,Increasing,Excellent,487750.75,FALSE
+1092,Coastal Area J,38,0.41,91.94,1.21,Moderate risk zone,Expansion of public transportation system,FALSE,1690.91,74.01,Decreasing,Average,375812.68,FALSE
+7114,Hamlet E,5,0.67,91.85,5.21,High risk zone,Renovation of public parks,TRUE,5747.31,92.58,Decreasing,Excellent,332330.7,TRUE
+8405,City A,22,0.23,60.8,3.19,Moderate risk zone,Infrastructure development in rural areas,TRUE,8958.54,11.34,Stable,Average,656933.24,TRUE
+7103,Rural Area G,2,0.46,81.47,5.11,Moderate risk zone,Renovation of public parks,TRUE,3976.17,88.99,Increasing,Terrible,952457.19,FALSE
+2977,Village C,50,0.94,69.2,2.07,Moderate risk zone,Expansion of public transportation system,FALSE,1999.6,83.01,Stable,Good,545289.19,TRUE
+2159,Rural Area G,35,0.37,28.08,1.32,High risk zone,Expansion of public transportation system,TRUE,8615.2,7.91,Increasing,Poor,466007.33,FALSE
+6903,Town B,37,0.78,11.18,3.32,Moderate risk zone,Construction of new schools,TRUE,2372.15,45.87,Stable,Average,668090.56,FALSE
+3555,Town B,49,0.74,78.82,8.4,Moderate risk zone,Renovation of public parks,TRUE,8838.73,48.5,Increasing,Good,189002.6,TRUE
+9982,Urban Area H,37,0.75,64.1,5.52,Moderate risk zone,Infrastructure development in rural areas,TRUE,1701.1,66.52,Stable,Average,358440.53,TRUE
+4951,City A,15,0.82,59.42,5.06,Low risk zone,Construction of new schools,TRUE,6333.46,92.14,Stable,Good,92500.75,TRUE
+8076,Rural Area G,1,0.6,33.63,4.81,Moderate risk zone,Expansion of public transportation system,TRUE,2194.4,8.42,Stable,Terrible,866303.61,TRUE
+3892,Countryside I,1,0.79,9.64,7.47,High risk zone,Expansion of public transportation system,FALSE,9115.48,10.7,Decreasing,Excellent,854497.46,FALSE
+2452,Urban Area H,18,0.3,59.21,8.43,High risk zone,Renovation of public parks,TRUE,2227.72,5.05,Stable,Terrible,655749.31,FALSE
+8761,Urban Area H,16,0.81,82.85,6.04,Low risk zone,Renovation of public parks,FALSE,3293.02,55.34,Decreasing,Excellent,643316.05,TRUE
+1949,Village C,21,0.24,78.71,1.83,High risk zone,Infrastructure development in rural areas,TRUE,3051.72,43.55,Decreasing,Average,728106.13,FALSE
+5443,City A,5,0.07,87.91,9.47,Moderate risk zone,Infrastructure development in rural areas,TRUE,3425.97,35.15,Increasing,Good,889586.44,FALSE
+7592,Coastal Area J,21,0.34,95.23,2.13,High risk zone,Expansion of public transportation system,FALSE,958.53,63.45,Stable,Terrible,852833.08,TRUE
+9216,Hamlet E,35,0.26,13.75,0.56,High risk zone,Expansion of public transportation system,TRUE,9333.18,83.23,Increasing,Excellent,681652.3,TRUE
+6843,City A,14,0.98,69.95,5.05,Low risk zone,Expansion of public transportation system,FALSE,886.64,67.67,Stable,Terrible,262188.89,TRUE
+3513,Hamlet E,17,0.96,56.82,9.22,High risk zone,Infrastructure development in rural areas,FALSE,5705.4,21.62,Decreasing,Terrible,273710.79,FALSE
+9764,Town B,32,0.85,42.64,0.8,Moderate risk zone,Renovation of public parks,FALSE,5222.61,4.57,Stable,Terrible,633593.94,TRUE
+3389,Coastal Area J,48,0.42,97.77,8.57,Moderate risk zone,Construction of new schools,TRUE,2784.85,60.81,Decreasing,Average,284822.32,TRUE
+6236,Town B,33,0.44,68.56,9.84,High risk zone,Renovation of public parks,TRUE,7765.76,87.06,Decreasing,Good,325287.4,TRUE
+6114,Hamlet E,25,0.24,41.62,5.58,Low risk zone,Renovation of public parks,TRUE,2412.85,80.22,Increasing,Excellent,769364.13,FALSE
+6137,Coastal Area J,46,0.54,73.7,5.16,Moderate risk zone,Renovation of public parks,FALSE,8591.43,8.62,Increasing,Poor,785838.18,TRUE
+3735,City A,37,0.04,4.41,9.9,Low risk zone,Renovation of public parks,TRUE,5441.36,17.06,Stable,Excellent,544492.44,FALSE
+1901,Countryside I,45,0.33,54.29,0.89,Moderate risk zone,Renovation of public parks,FALSE,6651.39,58.54,Stable,Excellent,37705.8,TRUE
+3710,Town B,36,0.61,40.59,4.75,Moderate risk zone,Infrastructure development in rural areas,FALSE,3844.82,8.15,Decreasing,Good,839210.16,FALSE
+9220,City A,1,0.55,5.52,8.16,High risk zone,Construction of new schools,FALSE,9377.12,17.44,Stable,Poor,980879.51,TRUE
+3457,Town B,8,0.09,57.49,9.01,Moderate risk zone,Expansion of public transportation system,TRUE,9869.35,11.87,Increasing,Excellent,520392.81,TRUE
+4707,City A,17,0.1,74.76,2.62,Low risk zone,Renovation of public parks,TRUE,786.39,80.37,Decreasing,Excellent,279271.06,TRUE
+7960,Hamlet E,11,0.19,62.2,7.37,Moderate risk zone,Infrastructure development in rural areas,FALSE,2421.4,60.95,Stable,Poor,499125.66,FALSE
+1645,Town B,42,0.43,24.73,8.66,High risk zone,Infrastructure development in rural areas,FALSE,7256.29,57.56,Decreasing,Excellent,148501.95,FALSE
+6005,Suburb D,32,0.67,60.55,0.4,High risk zone,Expansion of public transportation system,TRUE,40.37,30.74,Decreasing,Good,317768.92,FALSE
+8791,Hamlet E,42,0.73,38.94,6.23,High risk zone,Expansion of public transportation system,TRUE,25.76,71.4,Decreasing,Poor,480173.3,FALSE
+2156,Town B,33,0.96,99.37,9.91,Low risk zone,Infrastructure development in rural areas,FALSE,8673.29,13.02,Stable,Average,309345.61,TRUE
+6217,Village C,3,0.9,36.53,6.84,Moderate risk zone,Infrastructure development in rural areas,TRUE,7447.77,59.39,Increasing,Excellent,355022.74,TRUE
+8758,Urban Area H,16,0.02,72.61,4.21,High risk zone,Renovation of public parks,TRUE,3834.63,60.03,Increasing,Terrible,677994.39,FALSE
+2542,Countryside I,2,0.8,0.18,8.75,High risk zone,Renovation of public parks,TRUE,1969.15,12.02,Increasing,Average,945329.56,TRUE
+8587,Urban Area H,47,0.35,49.34,5.4,High risk zone,Expansion of public transportation system,FALSE,7838.06,14.86,Decreasing,Good,524501.37,FALSE
+2214,Urban Area H,5,0.5,90.34,5.2,Moderate risk zone,Expansion of public transportation system,FALSE,816.03,42.57,Decreasing,Good,781607.79,FALSE
+9533,Urban Area H,40,0.21,49.52,3.95,High risk zone,Infrastructure development in rural areas,FALSE,8497.7,16.89,Decreasing,Excellent,341789.99,TRUE
+6964,Suburb D,39,0.4,49,5.73,Moderate risk zone,Construction of new schools,FALSE,2090.76,19.79,Stable,Terrible,570959.17,FALSE
+2124,Town B,27,0.76,51.83,4.86,Moderate risk zone,Infrastructure development in rural areas,FALSE,5921.53,81.18,Stable,Good,676909.2,FALSE
+4339,Hamlet E,4,0.56,86.87,6.15,Moderate risk zone,Renovation of public parks,FALSE,362.88,18.65,Increasing,Good,305817.87,FALSE
+8618,Coastal Area J,40,0.75,53.37,7.79,Low risk zone,Expansion of public transportation system,TRUE,7649.95,50.33,Decreasing,Excellent,298921.37,TRUE
+8380,Rural Area G,12,0.36,77.21,8.63,Low risk zone,Construction of new schools,TRUE,1299.23,85.89,Increasing,Average,626076.89,TRUE
+8703,Neighborhood F,17,0.96,5.35,1.98,Low risk zone,Renovation of public parks,FALSE,2347.37,3.93,Stable,Good,472723.45,TRUE
+6849,City A,11,0.26,87.2,1.93,Moderate risk zone,Infrastructure development in rural areas,TRUE,1007.44,21.95,Decreasing,Poor,410155.08,TRUE
+7246,Neighborhood F,25,0.18,29.22,7.41,Low risk zone,Infrastructure development in rural areas,FALSE,7898.63,66.47,Increasing,Terrible,607135.71,FALSE
+7736,Village C,24,0.02,59.05,6.24,High risk zone,Construction of new schools,FALSE,2603.58,29.68,Decreasing,Average,369302.73,FALSE
+9163,Rural Area G,36,0.98,70.39,4.34,Low risk zone,Infrastructure development in rural areas,TRUE,3177.96,56.6,Stable,Average,571666.87,TRUE
+4513,Suburb D,38,0.66,42.4,8.58,High risk zone,Renovation of public parks,FALSE,6126.19,68.81,Decreasing,Average,415733.68,TRUE
+5391,Suburb D,20,0.81,3.69,6.83,Low risk zone,Construction of new schools,FALSE,4020.74,27.89,Stable,Good,435526.77,TRUE
+2056,Village C,11,0.71,73.22,2.76,High risk zone,Expansion of public transportation system,TRUE,9568.2,96.3,Stable,Good,828837.98,FALSE
+8878,Suburb D,9,0.88,73.38,2.35,Low risk zone,Infrastructure development in rural areas,TRUE,5742.13,14.3,Stable,Terrible,299248.64,FALSE
+9878,Suburb D,26,0.48,29.39,6.98,High risk zone,Infrastructure development in rural areas,FALSE,1684.78,24.18,Increasing,Terrible,520721.84,TRUE
+7561,Suburb D,36,0.35,50.9,4.34,High risk zone,Infrastructure development in rural areas,TRUE,6100.6,33.97,Decreasing,Terrible,691266.42,TRUE
+7901,Neighborhood F,39,0.3,57.81,6.62,Low risk zone,Renovation of public parks,TRUE,1292.88,22.46,Increasing,Poor,421290.31,FALSE
+5730,Coastal Area J,14,0.41,98.91,4.65,Moderate risk zone,Infrastructure development in rural areas,FALSE,8321.05,7.61,Increasing,Poor,463877.69,FALSE
+3029,Town B,11,0.31,74.66,2.61,High risk zone,Construction of new schools,FALSE,8330.85,89.98,Stable,Poor,603704.27,FALSE
+5762,Suburb D,30,0.97,80.73,3.17,High risk zone,Construction of new schools,TRUE,6451.13,66.21,Decreasing,Average,53348.72,FALSE
+3793,Neighborhood F,16,0.69,7.64,5.12,Low risk zone,Expansion of public transportation system,FALSE,1791.64,67.09,Decreasing,Poor,307194.39,TRUE
+4190,Neighborhood F,16,0.54,1,7.93,High risk zone,Expansion of public transportation system,TRUE,5315.32,80.92,Decreasing,Terrible,774467.1,FALSE
+8434,Village C,20,0.03,13.95,5.48,Low risk zone,Infrastructure development in rural areas,FALSE,5414.15,53.83,Decreasing,Terrible,872012.07,FALSE
+3612,City A,12,0.48,83.21,3.84,Low risk zone,Renovation of public parks,TRUE,7025.58,83.29,Increasing,Poor,94761.52,TRUE
+2444,Neighborhood F,1,0.88,83.3,1.03,High risk zone,Infrastructure development in rural areas,TRUE,4910.43,80.18,Increasing,Poor,265566.04,TRUE
+3198,City A,18,0.27,57.44,6.35,Low risk zone,Renovation of public parks,FALSE,7784.86,47.77,Decreasing,Poor,336609.28,TRUE
+3835,Urban Area H,34,0.45,28.29,3.56,High risk zone,Renovation of public parks,FALSE,2579.08,1.08,Stable,Average,912710.88,TRUE
+5061,Countryside I,28,0.12,10.56,7.3,High risk zone,Expansion of public transportation system,TRUE,9921.2,82.41,Stable,Poor,618097.95,FALSE
+5450,Hamlet E,13,0.38,22.82,2.71,High risk zone,Renovation of public parks,FALSE,2716.03,66.69,Stable,Poor,612268.28,TRUE
+6684,City A,50,0.21,29.84,6.98,High risk zone,Renovation of public parks,FALSE,4276.64,79.91,Stable,Poor,941848.27,FALSE
+8767,Neighborhood F,49,0.56,15.06,6.87,High risk zone,Construction of new schools,FALSE,3658.95,2.54,Increasing,Terrible,861926.04,FALSE
+4642,Urban Area H,14,0.34,29.5,4.73,High risk zone,Renovation of public parks,FALSE,7068.46,79.02,Stable,Poor,986906.11,TRUE
+8830,Coastal Area J,15,0.97,34.46,3.97,High risk zone,Renovation of public parks,FALSE,9770.74,73.05,Increasing,Excellent,76343.1,TRUE
+5502,City A,30,0.54,62.81,6.76,Low risk zone,Construction of new schools,TRUE,1669.7,45.54,Increasing,Excellent,349915.13,TRUE
+3874,City A,44,0.4,81.32,2.95,High risk zone,Expansion of public transportation system,FALSE,4391.1,38.62,Decreasing,Terrible,870133.3,TRUE
+4784,Urban Area H,46,0.18,25.42,6.68,Moderate risk zone,Infrastructure development in rural areas,FALSE,2379.62,72.07,Stable,Good,335789.84,FALSE
+2644,Hamlet E,32,0.37,87.86,7.76,Low risk zone,Infrastructure development in rural areas,TRUE,4601.87,24.15,Stable,Poor,88213.31,TRUE
+1068,Countryside I,21,0.55,88.97,2.32,Moderate risk zone,Construction of new schools,TRUE,786.28,90.68,Increasing,Terrible,442689.02,TRUE
+4434,City A,40,0.16,81.31,0.06,Moderate risk zone,Construction of new schools,TRUE,5795.63,47.79,Stable,Poor,902774.07,TRUE
+6319,Hamlet E,12,0.26,74.77,8,Moderate risk zone,Construction of new schools,TRUE,2546.07,9.11,Stable,Poor,113072.67,TRUE
+1931,City A,37,0.62,57.76,9.85,Low risk zone,Infrastructure development in rural areas,TRUE,2329.97,41.53,Decreasing,Excellent,342754.94,TRUE
+2391,City A,14,0.56,14.87,1.91,Low risk zone,Infrastructure development in rural areas,FALSE,3567.02,92.51,Decreasing,Excellent,637916.71,FALSE
+3138,Hamlet E,47,0.25,8.46,2.84,High risk zone,Construction of new schools,FALSE,9316.15,31.78,Decreasing,Terrible,193936.88,TRUE
+4741,Countryside I,15,0.95,44.48,5.01,Moderate risk zone,Renovation of public parks,TRUE,9735.84,45.57,Decreasing,Excellent,125460.94,FALSE
+2427,Hamlet E,8,0.65,9.86,9.01,Moderate risk zone,Renovation of public parks,TRUE,1675.7,42.42,Decreasing,Good,279514.33,TRUE
+3571,Suburb D,28,0.5,0.04,2.4,Low risk zone,Expansion of public transportation system,TRUE,2037.93,80.02,Decreasing,Excellent,293089.98,FALSE
+9305,Town B,8,0.52,27.95,2.81,Moderate risk zone,Expansion of public transportation system,TRUE,4898.53,95.69,Decreasing,Good,969969.07,FALSE
+9888,Coastal Area J,38,0.34,32.11,8.58,Moderate risk zone,Construction of new schools,TRUE,9905.26,78.58,Decreasing,Terrible,85563.44,TRUE
+1314,Town B,43,0.65,0.04,1.6,High risk zone,Expansion of public transportation system,FALSE,1268.7,20.58,Decreasing,Excellent,48396.65,FALSE
+3831,Suburb D,24,0.04,98.58,1.05,Moderate risk zone,Infrastructure development in rural areas,TRUE,4093.54,87.7,Stable,Average,975365.45,TRUE
+2152,Hamlet E,20,0.93,7.89,9.61,Moderate risk zone,Expansion of public transportation system,TRUE,4955.8,92.69,Decreasing,Terrible,328964.45,TRUE
+5143,Coastal Area J,30,0.15,34.34,5.58,Low risk zone,Renovation of public parks,FALSE,6661.7,25.83,Decreasing,Poor,976001,FALSE
+1913,Town B,38,0.26,92.52,4.36,Moderate risk zone,Expansion of public transportation system,TRUE,4077.12,55.35,Increasing,Terrible,18551.45,FALSE
+6278,Town B,5,0.62,44.04,9.73,High risk zone,Expansion of public transportation system,FALSE,7780.59,44.82,Stable,Excellent,299203.41,TRUE
+2966,Neighborhood F,20,0.62,96.36,4,Low risk zone,Renovation of public parks,FALSE,9330.02,63.75,Decreasing,Excellent,889669.62,TRUE
+2381,Village C,30,0.6,68.63,3.61,Low risk zone,Expansion of public transportation system,FALSE,5181.78,21.79,Decreasing,Average,455921.25,FALSE
+2453,Coastal Area J,27,0.39,37.98,5.26,High risk zone,Construction of new schools,TRUE,9274.53,91.75,Increasing,Poor,85756.36,TRUE
+9946,Neighborhood F,37,0.76,46.61,8.66,High risk zone,Renovation of public parks,FALSE,322.25,21.38,Increasing,Average,115482.95,FALSE
+5503,Town B,33,0.79,82.93,1.71,High risk zone,Infrastructure development in rural areas,FALSE,5149.95,75.12,Stable,Average,678598.02,FALSE
+2729,Coastal Area J,21,0.58,51.72,1.43,Low risk zone,Renovation of public parks,FALSE,1189.26,21.74,Stable,Poor,156809.12,FALSE
+9091,Town B,45,0.51,52.14,6.75,High risk zone,Infrastructure development in rural areas,TRUE,5180.6,38.16,Increasing,Good,462214.75,TRUE
+5933,Coastal Area J,2,0.91,67.99,1.74,Low risk zone,Expansion of public transportation system,FALSE,3875.61,28.66,Increasing,Terrible,987466.72,FALSE
+1992,Hamlet E,48,0.47,39.78,3.64,Low risk zone,Renovation of public parks,TRUE,1834.5,28.52,Stable,Poor,781832.01,FALSE
+1443,Suburb D,27,0.9,69.87,9.92,Low risk zone,Renovation of public parks,TRUE,9350.67,33.51,Decreasing,Terrible,340502.67,TRUE
+6783,City A,19,0.82,49.42,5.37,Low risk zone,Expansion of public transportation system,FALSE,9002.76,48.56,Increasing,Excellent,513767.81,TRUE
+2656,City A,12,0.02,76.03,1.79,Moderate risk zone,Expansion of public transportation system,FALSE,5477.91,14.51,Decreasing,Terrible,457259.78,TRUE
+9361,Countryside I,16,0.79,2.01,4.14,High risk zone,Construction of new schools,FALSE,8801.9,8.62,Decreasing,Good,989486.17,FALSE
+3750,Urban Area H,27,0.56,62.3,4.47,Low risk zone,Infrastructure development in rural areas,FALSE,9436.33,49.13,Increasing,Excellent,378422.32,FALSE
+4171,City A,16,0.24,36.21,8.57,High risk zone,Infrastructure development in rural areas,TRUE,2753.03,56.38,Stable,Average,673866.97,FALSE
+9768,Countryside I,3,0.33,70.34,0.49,Low risk zone,Expansion of public transportation system,FALSE,1831.61,50.99,Increasing,Good,869333.23,FALSE
+4233,Suburb D,31,0.18,0.11,1.26,Low risk zone,Expansion of public transportation system,TRUE,7051.42,74.02,Increasing,Good,205822.7,FALSE
+3673,Village C,16,0.23,62.29,4.09,Low risk zone,Construction of new schools,FALSE,7501.34,3.87,Decreasing,Poor,442531.11,TRUE
+3366,City A,25,0.97,46.13,2.83,High risk zone,Renovation of public parks,TRUE,8448.77,13.67,Decreasing,Poor,561515.6,FALSE
+2320,Neighborhood F,47,0.73,42.84,4.04,Moderate risk zone,Construction of new schools,FALSE,6980.87,78.43,Increasing,Average,429995.75,FALSE
+3084,Hamlet E,38,0.75,48.54,6.47,High risk zone,Construction of new schools,TRUE,127,93.4,Increasing,Terrible,165701.39,FALSE
+3818,Suburb D,24,0.5,66.92,2.97,High risk zone,Renovation of public parks,FALSE,881.56,33.69,Stable,Good,938710.55,TRUE
+3813,Countryside I,50,0.86,90.73,6.51,Moderate risk zone,Infrastructure development in rural areas,TRUE,7839.82,21.34,Decreasing,Good,29529.27,FALSE
+9924,Neighborhood F,7,0.41,18.86,1.46,Moderate risk zone,Infrastructure development in rural areas,FALSE,3298.73,82.73,Increasing,Poor,748405.45,FALSE
+8661,Coastal Area J,35,0.66,73.26,7.95,High risk zone,Expansion of public transportation system,FALSE,682.8,36.09,Increasing,Terrible,96727.22,FALSE
+3129,Town B,16,0.36,14.83,9.51,High risk zone,Expansion of public transportation system,TRUE,6658.88,32.23,Decreasing,Excellent,793977.32,FALSE
+4439,Suburb D,45,0.23,50.23,9.65,High risk zone,Expansion of public transportation system,FALSE,9320.73,72.22,Increasing,Average,222141.65,TRUE
+8470,Suburb D,34,0.2,6.23,0.87,Moderate risk zone,Construction of new schools,FALSE,4743.04,80.62,Decreasing,Good,827041.61,TRUE
+8674,Neighborhood F,23,0,57.66,6.92,High risk zone,Renovation of public parks,TRUE,6192.2,75.08,Increasing,Good,328328.29,FALSE
+4033,Rural Area G,30,0.94,37.97,7.09,Moderate risk zone,Renovation of public parks,FALSE,5320.83,78.81,Stable,Average,424777.08,FALSE
+4489,Hamlet E,28,0.99,77.39,0.74,Moderate risk zone,Construction of new schools,TRUE,3913.33,20.88,Increasing,Terrible,159583.47,FALSE
+1906,Rural Area G,26,0.97,98.07,3.26,Moderate risk zone,Infrastructure development in rural areas,TRUE,6157.56,98.72,Increasing,Average,131641.21,FALSE
+5278,City A,30,0.23,13.21,4.78,High risk zone,Expansion of public transportation system,FALSE,4009.27,66.68,Increasing,Poor,393348.96,TRUE
+5435,Suburb D,40,0.16,57.37,6.75,Low risk zone,Expansion of public transportation system,TRUE,7843.04,60.4,Stable,Poor,44462.81,FALSE
+8205,Coastal Area J,7,0.99,42.68,3.23,Moderate risk zone,Infrastructure development in rural areas,FALSE,7769.51,62.26,Decreasing,Average,469359.43,TRUE
+9127,Suburb D,12,0.1,55.54,9.77,Moderate risk zone,Renovation of public parks,FALSE,3141.44,96.45,Stable,Poor,525222.4,TRUE
+2065,Coastal Area J,30,0.58,28.25,8.44,Low risk zone,Expansion of public transportation system,TRUE,9867.1,8.75,Increasing,Average,934562.29,TRUE
+1369,Town B,18,0.89,93.3,9.04,Moderate risk zone,Construction of new schools,FALSE,5961.75,10.62,Stable,Average,512692.7,FALSE
+2051,City A,3,0.3,76.32,1.97,Moderate risk zone,Construction of new schools,FALSE,8526.49,59.51,Stable,Excellent,628810.74,FALSE
+1786,Town B,40,0.75,87.88,2.43,Moderate risk zone,Expansion of public transportation system,TRUE,848.34,33.7,Stable,Good,326349.26,TRUE
+3856,Suburb D,36,0.04,75.36,2.74,Low risk zone,Expansion of public transportation system,TRUE,994.72,99.39,Increasing,Terrible,473048.04,TRUE
+3951,Coastal Area J,2,0.89,4.71,7.94,Moderate risk zone,Renovation of public parks,TRUE,3086.11,97.75,Decreasing,Terrible,971784.07,TRUE
+2512,Rural Area G,24,0.6,54.2,9.42,High risk zone,Infrastructure development in rural areas,FALSE,9039.52,63.01,Increasing,Excellent,269749.66,FALSE
+4548,Village C,17,0.14,49.34,5.29,Low risk zone,Renovation of public parks,TRUE,7107.87,83.95,Decreasing,Excellent,995813.54,TRUE
+4666,Coastal Area J,44,0.29,62.18,2.6,Moderate risk zone,Renovation of public parks,FALSE,2103.63,59.86,Increasing,Average,738577.77,TRUE
+4133,Suburb D,33,0.75,30.27,5.77,Moderate risk zone,Expansion of public transportation system,TRUE,9941.09,18,Stable,Poor,169952.76,FALSE
+1499,Neighborhood F,9,0.81,17.46,6.63,Moderate risk zone,Renovation of public parks,TRUE,1225.93,64.3,Decreasing,Good,82699.55,TRUE
+1374,City A,26,0.34,28.81,6.04,Moderate risk zone,Infrastructure development in rural areas,TRUE,1449.75,78.77,Stable,Terrible,444367.58,FALSE
+2567,Hamlet E,26,0.15,54.38,5.95,Low risk zone,Construction of new schools,FALSE,7823.6,4.84,Stable,Excellent,627278.74,FALSE
+5788,Village C,24,0.21,97.24,8.99,Moderate risk zone,Infrastructure development in rural areas,TRUE,7255.03,99.12,Increasing,Good,143131.53,FALSE
+1281,Urban Area H,36,0.03,40.92,7.25,Moderate risk zone,Renovation of public parks,TRUE,6195.98,56.58,Decreasing,Terrible,515569.61,FALSE
+1570,Village C,23,0.98,62.29,4.95,Moderate risk zone,Construction of new schools,FALSE,1061.38,46.48,Stable,Poor,241793.88,TRUE
+9953,Town B,9,0.24,71.27,1.79,Moderate risk zone,Infrastructure development in rural areas,FALSE,3560.71,52.38,Stable,Good,431581.91,FALSE
+2739,Rural Area G,41,0.69,76.17,4.23,Low risk zone,Expansion of public transportation system,TRUE,1032.15,4.28,Decreasing,Excellent,476915.6,TRUE
+9250,Countryside I,35,0.54,17.55,4.49,Moderate risk zone,Renovation of public parks,FALSE,9496.04,96.05,Decreasing,Terrible,653430.58,TRUE
+7275,Rural Area G,45,0.22,22.33,8.52,High risk zone,Renovation of public parks,TRUE,1572.24,80.47,Decreasing,Excellent,428010.41,FALSE
+9236,Countryside I,40,0.06,5.41,7.22,Low risk zone,Construction of new schools,FALSE,3584.68,98.33,Increasing,Poor,674845.97,TRUE
+8165,Village C,23,0.27,69.02,7.63,High risk zone,Infrastructure development in rural areas,FALSE,9384.79,15.1,Stable,Excellent,670838.59,FALSE
+8150,City A,8,0.4,84.93,8.53,Low risk zone,Construction of new schools,TRUE,6876.8,60.53,Decreasing,Terrible,403083.22,TRUE
+5064,Rural Area G,37,0.56,76.61,4.75,High risk zone,Infrastructure development in rural areas,FALSE,389.83,85.03,Decreasing,Excellent,142434.67,FALSE
+5697,Coastal Area J,37,0.03,41.03,3.38,Low risk zone,Expansion of public transportation system,TRUE,79.36,73.69,Stable,Poor,696550.49,FALSE
+8892,City A,34,0.27,90.2,1.3,Low risk zone,Construction of new schools,FALSE,904.09,85.6,Decreasing,Good,694845.11,FALSE
+7459,Rural Area G,43,0.46,95.97,2.24,Moderate risk zone,Infrastructure development in rural areas,FALSE,3261.55,26.93,Stable,Excellent,738551.68,FALSE
+1546,Coastal Area J,16,0.54,41.13,4.54,Low risk zone,Renovation of public parks,TRUE,7712.07,28.13,Decreasing,Good,676295.72,FALSE
+8786,Town B,46,0.52,85.93,0.45,High risk zone,Renovation of public parks,FALSE,3272.88,0.43,Increasing,Poor,865162.2,FALSE
+7614,Countryside I,47,0.72,90.25,6.1,Low risk zone,Construction of new schools,FALSE,2556.96,37.42,Stable,Poor,983643.02,FALSE
+5028,Suburb D,34,0.86,67.1,1.15,Moderate risk zone,Infrastructure development in rural areas,TRUE,9645.35,61.09,Increasing,Excellent,512103.96,FALSE
+4801,Coastal Area J,47,0.98,19.64,8.95,Low risk zone,Expansion of public transportation system,FALSE,3667.25,77.29,Increasing,Good,259157.94,FALSE
+5443,Rural Area G,18,0.77,23.29,0.98,Low risk zone,Construction of new schools,FALSE,118.09,12.58,Decreasing,Average,674661.14,FALSE
+8633,Urban Area H,32,0.32,34.52,3.11,Moderate risk zone,Renovation of public parks,TRUE,2639.35,24.85,Increasing,Excellent,532847.77,FALSE
+8685,Hamlet E,8,0.18,18.91,9.85,High risk zone,Infrastructure development in rural areas,FALSE,7994.83,5.62,Increasing,Terrible,258912.31,TRUE
+4078,Suburb D,41,0.93,26.35,5.14,High risk zone,Renovation of public parks,FALSE,3911.19,34.63,Stable,Excellent,316170.25,TRUE
+5936,Town B,45,0.07,1.37,6.43,Moderate risk zone,Expansion of public transportation system,TRUE,4447.26,10.06,Decreasing,Terrible,37189.17,TRUE
+6174,Town B,34,0.01,19.6,8.38,High risk zone,Expansion of public transportation system,FALSE,2389.05,41.71,Stable,Poor,473345.27,TRUE
+3679,Countryside I,46,0.01,33.14,6.2,Moderate risk zone,Renovation of public parks,FALSE,1263.46,97.61,Increasing,Terrible,625117.62,TRUE
+4186,Urban Area H,27,0.28,54.04,9.56,Moderate risk zone,Infrastructure development in rural areas,FALSE,6081.37,65.85,Increasing,Excellent,436065.91,TRUE
+4578,Rural Area G,35,0.3,23.28,5.52,Low risk zone,Infrastructure development in rural areas,FALSE,7230.88,87.03,Increasing,Good,385509.1,TRUE
+7509,Town B,40,0.04,53.01,7.58,Moderate risk zone,Expansion of public transportation system,TRUE,2833.53,96.12,Stable,Average,766467.98,FALSE
+9077,Village C,10,0.14,26.41,1.15,Low risk zone,Construction of new schools,FALSE,3605.46,21.47,Increasing,Poor,296390.24,TRUE
+8321,Hamlet E,15,0.22,10.69,4.82,High risk zone,Expansion of public transportation system,TRUE,4746.97,53.1,Stable,Excellent,40604.91,TRUE
+7805,Village C,34,0.08,47.75,8.17,Low risk zone,Infrastructure development in rural areas,TRUE,2363.02,19.82,Decreasing,Good,599559.46,FALSE
+3971,Countryside I,16,0.68,67.01,4.41,Low risk zone,Infrastructure development in rural areas,TRUE,30.52,15.46,Decreasing,Good,684114.03,TRUE
+2007,City A,16,0.18,7.69,4.01,Moderate risk zone,Construction of new schools,FALSE,6670.81,83.66,Decreasing,Good,83148.31,FALSE
+1680,Rural Area G,19,0,9.87,9.72,Moderate risk zone,Renovation of public parks,TRUE,1052.77,56.21,Increasing,Poor,832305.4,TRUE
+8067,Neighborhood F,1,0.12,55.11,9.33,Moderate risk zone,Expansion of public transportation system,FALSE,3203.3,34.04,Increasing,Excellent,864418.36,TRUE
+4779,Town B,2,0.75,9.26,9.24,Moderate risk zone,Construction of new schools,FALSE,4625.18,71.27,Decreasing,Terrible,401618.97,FALSE
+2500,Countryside I,48,0.49,97.65,8.43,High risk zone,Expansion of public transportation system,TRUE,1719.16,60.36,Stable,Terrible,93943.6,TRUE
+6826,Village C,26,0.72,85.69,5.02,High risk zone,Expansion of public transportation system,TRUE,3759.82,11.32,Stable,Terrible,768814.97,TRUE
+8079,Suburb D,3,0.27,22.08,9.61,Moderate risk zone,Expansion of public transportation system,FALSE,597.22,13.32,Decreasing,Excellent,900455.1,TRUE
+6784,Suburb D,18,0.37,61.15,6.02,Moderate risk zone,Expansion of public transportation system,TRUE,1188.21,91.12,Decreasing,Good,813799.92,TRUE
+8696,Town B,14,0.56,88.06,3.76,Moderate risk zone,Expansion of public transportation system,FALSE,6748.43,49.41,Increasing,Excellent,779675.34,FALSE
+8243,Hamlet E,32,0.84,39.92,2.95,Moderate risk zone,Construction of new schools,FALSE,9121.55,79.47,Decreasing,Terrible,313175.87,TRUE
+9186,Countryside I,4,0.5,57.3,3.16,High risk zone,Expansion of public transportation system,TRUE,4854.19,83.6,Decreasing,Good,242555.94,TRUE
+3058,Urban Area H,1,0.34,68.39,0.7,High risk zone,Renovation of public parks,FALSE,6893.9,15.88,Increasing,Terrible,274088.46,FALSE
+3025,Urban Area H,20,0.64,79.26,3.93,Moderate risk zone,Expansion of public transportation system,TRUE,5370.03,8.99,Decreasing,Average,396371.51,TRUE
+5290,City A,50,0.15,85.4,0.58,High risk zone,Infrastructure development in rural areas,TRUE,696.99,39.56,Increasing,Excellent,538062.32,TRUE
+7905,Urban Area H,11,0.26,83.46,6.56,Moderate risk zone,Expansion of public transportation system,TRUE,1928.61,59.01,Increasing,Poor,943890.58,TRUE
+4235,Neighborhood F,38,0.37,26.83,9.48,Moderate risk zone,Infrastructure development in rural areas,FALSE,9999.61,74.83,Increasing,Good,213100.98,FALSE
+6995,City A,22,0.93,31.41,8.2,Moderate risk zone,Expansion of public transportation system,TRUE,6307.88,62.54,Decreasing,Terrible,472215.53,TRUE
+5096,Suburb D,46,0.46,20.79,5.32,High risk zone,Infrastructure development in rural areas,FALSE,5443.87,1.78,Decreasing,Poor,317522.68,TRUE
+2480,Rural Area G,38,0.32,13.98,2.61,Moderate risk zone,Infrastructure development in rural areas,FALSE,9518.8,91.76,Stable,Average,260296.14,TRUE
+9752,Urban Area H,23,0.36,53.76,3.85,High risk zone,Construction of new schools,TRUE,9992.3,69.55,Increasing,Good,36491.91,FALSE
+6457,Countryside I,27,0.57,94.71,9.17,Moderate risk zone,Construction of new schools,TRUE,6682.79,75.86,Decreasing,Terrible,920566.97,FALSE
+7526,City A,48,0.24,21.62,4.78,Moderate risk zone,Expansion of public transportation system,TRUE,4555.63,47.97,Decreasing,Excellent,910921.74,FALSE
+5297,Suburb D,8,0.07,31.18,1.38,High risk zone,Expansion of public transportation system,TRUE,8492.5,18.47,Increasing,Terrible,360933.11,TRUE
+9279,Neighborhood F,46,0.18,0.67,3.05,High risk zone,Expansion of public transportation system,FALSE,5033.87,5.23,Decreasing,Excellent,869231.23,FALSE
+3518,Neighborhood F,45,0.43,7.23,8.51,Moderate risk zone,Expansion of public transportation system,FALSE,8197.32,39.42,Stable,Excellent,790696.37,FALSE
+3471,Suburb D,46,0.72,37.54,7.38,High risk zone,Renovation of public parks,TRUE,9537.7,5.06,Increasing,Terrible,678870.72,TRUE
+8952,Rural Area G,10,0.27,25.85,5.81,Moderate risk zone,Infrastructure development in rural areas,FALSE,8465.45,14.61,Increasing,Terrible,618716.22,TRUE
+4759,Countryside I,43,0.65,20.53,8.47,Low risk zone,Renovation of public parks,FALSE,9643.88,57.97,Decreasing,Average,788581.94,FALSE
+3618,Town B,3,0.55,76.49,4.66,Moderate risk zone,Construction of new schools,TRUE,4203.07,84.83,Increasing,Poor,586423.46,FALSE
+4913,Town B,15,0.8,13.82,7.27,Moderate risk zone,Infrastructure development in rural areas,FALSE,8836.64,81.59,Increasing,Poor,507589.77,TRUE
+7440,Urban Area H,49,0.86,64.61,7.95,High risk zone,Renovation of public parks,FALSE,5020.43,73.72,Decreasing,Terrible,163555.25,TRUE
+5509,City A,11,0.85,48.87,1.42,Low risk zone,Construction of new schools,FALSE,528.39,60.63,Stable,Poor,671671.35,TRUE
+4974,City A,39,0.45,17.01,2.13,Low risk zone,Expansion of public transportation system,FALSE,2526.29,38.55,Increasing,Good,196655.35,TRUE
+7492,Village C,46,0.68,63.88,0.72,Low risk zone,Infrastructure development in rural areas,TRUE,7141.48,92.36,Stable,Good,205015.35,TRUE
+8465,Hamlet E,15,0.79,29.01,7.36,High risk zone,Construction of new schools,TRUE,6200.2,62.48,Increasing,Average,582831.93,FALSE
+4015,Hamlet E,33,0.42,66.42,3.74,Moderate risk zone,Renovation of public parks,TRUE,1738.4,12.83,Stable,Terrible,206858.15,FALSE
+1833,Neighborhood F,42,0.48,83.46,4.7,High risk zone,Expansion of public transportation system,TRUE,6556.09,14.86,Increasing,Excellent,322645.31,FALSE
+8034,Urban Area H,10,0.12,96.52,8.61,High risk zone,Construction of new schools,TRUE,6418.59,2.7,Stable,Good,772486.87,TRUE
+4606,Town B,35,0.86,33.4,6.92,Low risk zone,Infrastructure development in rural areas,TRUE,8298.88,9.27,Increasing,Terrible,789639.63,TRUE
+9877,Village C,3,0.52,45.75,9.73,Moderate risk zone,Renovation of public parks,TRUE,4768.74,17.34,Stable,Poor,178045.5,TRUE
+3424,Countryside I,7,0.76,44.59,2.21,Low risk zone,Infrastructure development in rural areas,TRUE,7705.82,86.14,Decreasing,Terrible,999195.35,FALSE
+2209,Urban Area H,17,0.71,53.14,6.44,Moderate risk zone,Expansion of public transportation system,TRUE,2392.19,32.76,Stable,Excellent,137961.47,TRUE
+9484,Neighborhood F,38,0.03,54.53,5.07,High risk zone,Infrastructure development in rural areas,FALSE,7598.07,99.82,Increasing,Poor,132513.36,TRUE
+5661,Suburb D,40,0.26,56.06,4.12,Low risk zone,Expansion of public transportation system,TRUE,9439.47,89,Decreasing,Average,879643.12,FALSE
+4052,Urban Area H,37,0.02,77.31,0.57,Moderate risk zone,Expansion of public transportation system,TRUE,7708.63,23.09,Stable,Poor,960281.33,FALSE
+1500,Village C,36,0.8,41.15,5.68,Low risk zone,Construction of new schools,FALSE,8944.13,37.53,Increasing,Poor,956756.59,TRUE
+4873,Coastal Area J,5,0.22,83.56,8.93,Low risk zone,Infrastructure development in rural areas,TRUE,4443.62,67.03,Stable,Poor,633230.37,TRUE
+2633,Rural Area G,40,0.49,24.26,2.49,Moderate risk zone,Renovation of public parks,TRUE,9257.36,20.7,Increasing,Excellent,156606.18,TRUE
+4608,Rural Area G,28,0.74,14.84,5.76,Low risk zone,Expansion of public transportation system,FALSE,8779.32,41.83,Decreasing,Average,141138.4,TRUE
+4663,City A,34,0.98,65.72,7.8,Moderate risk zone,Infrastructure development in rural areas,TRUE,2529.21,76.82,Increasing,Average,268124.14,TRUE
+5343,City A,29,0.83,63.88,7.64,Moderate risk zone,Construction of new schools,TRUE,5495.57,52.05,Decreasing,Good,728257.75,TRUE
+8682,Suburb D,22,0.43,41.56,0.11,Low risk zone,Expansion of public transportation system,TRUE,9530.99,83.36,Stable,Excellent,759386.12,FALSE
+4661,Neighborhood F,21,0.57,42.04,1.56,High risk zone,Construction of new schools,TRUE,8957.86,94.35,Increasing,Terrible,792260.09,TRUE
+8848,Neighborhood F,14,0.76,39.85,8.62,Low risk zone,Infrastructure development in rural areas,TRUE,4954.38,14.62,Decreasing,Terrible,270241.99,FALSE
+6600,Coastal Area J,23,0.88,67.97,4.07,Low risk zone,Infrastructure development in rural areas,TRUE,1527.32,93.47,Increasing,Excellent,903104.61,TRUE
+4461,Coastal Area J,2,0.45,83.61,4.4,Low risk zone,Renovation of public parks,TRUE,2058.17,34.77,Decreasing,Poor,123192.79,TRUE
+8441,Village C,28,0.38,70.36,5.66,High risk zone,Construction of new schools,TRUE,9063.64,57.62,Increasing,Good,300130.31,FALSE
+3833,Suburb D,1,0.29,57.44,4.85,High risk zone,Construction of new schools,FALSE,713.16,81.46,Decreasing,Good,685097.62,TRUE
+9441,Neighborhood F,3,0.01,68.14,2.9,High risk zone,Construction of new schools,TRUE,596.26,94.7,Increasing,Average,168309.32,FALSE
+3452,Coastal Area J,26,0.22,53.74,1.51,Moderate risk zone,Expansion of public transportation system,FALSE,3116.69,23.81,Decreasing,Excellent,856222.68,FALSE
+2486,Rural Area G,35,0.45,77.54,9.7,Low risk zone,Infrastructure development in rural areas,FALSE,5713.28,71.37,Decreasing,Good,474280.71,TRUE
+6752,Town B,9,0.62,75.4,0.37,Low risk zone,Construction of new schools,FALSE,6758.02,47.18,Increasing,Poor,502287.7,FALSE
+2742,Town B,27,0.26,61.11,6.74,High risk zone,Renovation of public parks,FALSE,8281.07,96.21,Increasing,Excellent,202397.98,TRUE
+2376,Town B,50,0.32,6.1,8.21,Low risk zone,Renovation of public parks,FALSE,3960.53,93.08,Stable,Good,756060.32,TRUE
+3925,Suburb D,27,0.69,3.51,8.01,High risk zone,Construction of new schools,TRUE,5233.52,71.44,Increasing,Average,308109.42,TRUE
+9813,Countryside I,50,0.18,58.37,1.9,Moderate risk zone,Renovation of public parks,TRUE,6935.42,45.69,Stable,Poor,883862.54,TRUE
+6292,Village C,47,0.09,36.94,2.67,Moderate risk zone,Infrastructure development in rural areas,FALSE,2070.78,56.52,Increasing,Poor,443171.11,TRUE
+9825,City A,35,0.57,64.04,9.29,Moderate risk zone,Renovation of public parks,FALSE,3669.92,60.65,Decreasing,Good,748536.09,TRUE
+4782,Hamlet E,37,0.74,54.84,2.91,Moderate risk zone,Infrastructure development in rural areas,FALSE,2801.95,84.69,Increasing,Average,190685.74,TRUE
+2022,Hamlet E,2,0.76,91.39,0.7,Low risk zone,Infrastructure development in rural areas,TRUE,5297.89,28.83,Stable,Good,848631.5,TRUE
+8688,Countryside I,49,0.59,51.88,8.37,High risk zone,Infrastructure development in rural areas,TRUE,5528.2,55.72,Stable,Average,788469.52,TRUE
+8821,Coastal Area J,47,0.49,50.59,4.43,Moderate risk zone,Construction of new schools,FALSE,8182.65,35.27,Decreasing,Poor,827075.65,FALSE
+9983,Town B,12,0.39,30.05,9.35,Moderate risk zone,Expansion of public transportation system,TRUE,7122.27,94.32,Increasing,Poor,513908.33,FALSE
+2018,Rural Area G,18,0.39,90.68,4.23,High risk zone,Infrastructure development in rural areas,FALSE,9442.13,39.31,Increasing,Average,584694.27,FALSE
+4337,Village C,40,0.88,93.44,4.88,Moderate risk zone,Construction of new schools,TRUE,6488.89,95.9,Stable,Average,265795.5,TRUE
+9082,Urban Area H,8,0.43,3.72,3.46,Moderate risk zone,Construction of new schools,TRUE,3930.03,74.21,Decreasing,Poor,208913.22,FALSE
+4707,Suburb D,17,0.34,88.24,5.4,High risk zone,Construction of new schools,FALSE,4124.93,83.5,Stable,Average,968341.78,TRUE
+4302,Rural Area G,46,0.77,8.98,4.03,Low risk zone,Expansion of public transportation system,TRUE,5103.73,68.62,Increasing,Average,724781.48,FALSE
+7656,Suburb D,5,0.43,69.99,7.98,Moderate risk zone,Expansion of public transportation system,FALSE,1362.37,64,Increasing,Terrible,186730.59,TRUE
+8199,Neighborhood F,27,0.51,48.43,7.35,Low risk zone,Renovation of public parks,FALSE,6970.76,43.62,Stable,Good,136207.14,FALSE
+2978,Village C,41,0.01,28.18,9.83,Low risk zone,Construction of new schools,TRUE,8817.03,35.25,Decreasing,Good,363391.77,TRUE
+4874,Neighborhood F,26,0.64,11.03,1.32,High risk zone,Construction of new schools,TRUE,5543.59,62.07,Stable,Good,598091.3,TRUE
+6333,Hamlet E,44,0.18,41.66,5.44,Low risk zone,Construction of new schools,TRUE,4488.14,19.91,Decreasing,Good,757120.15,FALSE
+3849,Rural Area G,21,0.75,16.85,4.39,Moderate risk zone,Renovation of public parks,TRUE,1541.67,47.89,Stable,Poor,704966.11,FALSE
+4387,Rural Area G,18,0.32,42.67,5.84,Low risk zone,Renovation of public parks,FALSE,1066.5,93.6,Increasing,Good,956586.7,TRUE
+7710,Countryside I,41,0.51,64.9,4.58,Moderate risk zone,Construction of new schools,TRUE,1411.83,62.93,Increasing,Good,771685.43,TRUE
+8843,City A,42,0.51,92.33,8.8,Low risk zone,Expansion of public transportation system,FALSE,4217.58,50.68,Decreasing,Terrible,748307.43,TRUE
+3708,Neighborhood F,30,0.38,18.07,9.48,Low risk zone,Construction of new schools,FALSE,2824.87,31.75,Decreasing,Average,366833.39,TRUE
+6681,Suburb D,9,0.15,99.4,9.12,Low risk zone,Infrastructure development in rural areas,TRUE,2914.28,38.43,Increasing,Excellent,248661.45,TRUE
+7298,Neighborhood F,33,0.78,24.76,4.15,Low risk zone,Expansion of public transportation system,TRUE,5800.22,73.74,Stable,Terrible,923009.95,FALSE
+7750,Coastal Area J,44,0.54,83.81,9.44,High risk zone,Infrastructure development in rural areas,FALSE,5230.98,74.45,Stable,Excellent,642216.33,TRUE
+7109,Coastal Area J,32,0.79,62.77,3.89,Moderate risk zone,Renovation of public parks,FALSE,9671.57,62.07,Stable,Average,235211.84,TRUE
+5865,Village C,43,0.25,77.98,1.08,High risk zone,Construction of new schools,TRUE,9797.25,60.6,Decreasing,Average,41131.15,FALSE
+2519,Rural Area G,17,0.12,67.95,5.37,High risk zone,Infrastructure development in rural areas,FALSE,8600.02,70.13,Increasing,Excellent,719137.42,FALSE
+2850,Rural Area G,15,0.64,93.19,1.58,Moderate risk zone,Expansion of public transportation system,TRUE,4323.88,71.59,Decreasing,Excellent,935649.75,FALSE
+6509,Village C,3,0.09,9.65,3.25,Moderate risk zone,Construction of new schools,FALSE,9929.46,19.71,Stable,Average,859860.77,FALSE
+7999,Neighborhood F,4,0.54,46.34,0.9,High risk zone,Renovation of public parks,TRUE,3427.37,80.67,Increasing,Terrible,487271.7,TRUE
+9140,Countryside I,34,0.81,24.39,0.36,Moderate risk zone,Construction of new schools,FALSE,2400.93,69.48,Increasing,Terrible,769638.66,TRUE
+6671,Village C,35,0.59,0.07,9.31,High risk zone,Infrastructure development in rural areas,TRUE,8736.05,32.02,Increasing,Terrible,359055.48,FALSE
+6534,Suburb D,34,0.33,41.44,7.96,Moderate risk zone,Infrastructure development in rural areas,FALSE,6604.86,63.13,Stable,Terrible,301143.91,FALSE
+1339,City A,37,0.64,79.74,7.22,High risk zone,Construction of new schools,FALSE,2135,54.08,Stable,Good,271451.82,TRUE
+7621,City A,49,0.95,17.76,6.81,Low risk zone,Expansion of public transportation system,TRUE,1143.02,94.65,Stable,Excellent,983529.28,FALSE
+4595,Coastal Area J,34,0.76,8.14,1.15,Moderate risk zone,Expansion of public transportation system,TRUE,5863.08,84.96,Stable,Poor,712391.17,FALSE
+3026,Coastal Area J,41,0.4,35.12,6.66,Moderate risk zone,Construction of new schools,FALSE,9900.54,88.3,Stable,Average,832348.61,FALSE
+8516,Town B,16,0.01,45.37,7.6,Moderate risk zone,Expansion of public transportation system,FALSE,1386.83,27.55,Increasing,Terrible,63914.67,FALSE
+9704,Suburb D,16,0.82,37.38,4.7,Low risk zone,Renovation of public parks,FALSE,9614.22,61.12,Decreasing,Poor,84916.36,FALSE
+8983,Hamlet E,26,0.5,92.85,0.06,High risk zone,Infrastructure development in rural areas,FALSE,8162.64,46.37,Decreasing,Average,572416.99,FALSE
+9769,Hamlet E,50,0.69,0.92,7.45,Low risk zone,Renovation of public parks,FALSE,9828.32,32.92,Decreasing,Excellent,455599.57,FALSE
+4143,Town B,21,0.9,50.36,8.93,Low risk zone,Construction of new schools,FALSE,426.94,69.09,Increasing,Average,567720.07,FALSE
+5726,Neighborhood F,21,0.81,75.65,9.04,Moderate risk zone,Expansion of public transportation system,TRUE,8903.71,36.12,Decreasing,Terrible,979484.33,TRUE
+9309,City A,9,0.51,55.15,6.35,Moderate risk zone,Infrastructure development in rural areas,TRUE,7133.92,84.46,Increasing,Average,261125.72,FALSE
+4359,Neighborhood F,49,0.8,42.16,4.44,Low risk zone,Infrastructure development in rural areas,FALSE,191.59,76.29,Decreasing,Terrible,44511.29,TRUE
+7725,Village C,5,0.1,38.02,4.7,High risk zone,Construction of new schools,FALSE,5992.29,45.31,Decreasing,Poor,571784.92,TRUE
+2859,Town B,44,0.31,34.93,9.58,High risk zone,Renovation of public parks,FALSE,6448.85,2.25,Decreasing,Average,63867.34,FALSE
+4043,Urban Area H,37,0.64,27.35,2.75,Low risk zone,Infrastructure development in rural areas,FALSE,2493.23,48.55,Increasing,Good,439586.75,TRUE
+2530,Rural Area G,11,0.73,38.79,2.11,High risk zone,Infrastructure development in rural areas,TRUE,5529.08,12.38,Decreasing,Poor,136794,FALSE
+9298,Town B,9,0.35,70.37,8.75,High risk zone,Renovation of public parks,TRUE,8990.06,19.56,Decreasing,Poor,623354.09,TRUE
+8839,Town B,2,0.28,56.74,3.43,Moderate risk zone,Expansion of public transportation system,TRUE,8010.19,2.58,Decreasing,Excellent,764207.02,FALSE
+4776,Countryside I,47,0.9,45.95,1.85,Low risk zone,Infrastructure development in rural areas,TRUE,9713.27,52.62,Decreasing,Good,721036.31,TRUE
+3045,Hamlet E,49,0.3,52.12,4.74,Moderate risk zone,Expansion of public transportation system,TRUE,4361.75,91.64,Stable,Terrible,590117.98,TRUE
+4774,Village C,19,0.21,68.52,9.61,Low risk zone,Construction of new schools,FALSE,9195.39,73.39,Stable,Average,904350.27,FALSE
+3445,Neighborhood F,49,0.53,24.32,0.09,High risk zone,Infrastructure development in rural areas,FALSE,1830.71,53.66,Stable,Good,635972.76,FALSE
+5807,Urban Area H,31,0.72,5.2,9.13,Moderate risk zone,Expansion of public transportation system,FALSE,1175.03,90.27,Stable,Excellent,585853.5,TRUE
+2314,Urban Area H,39,0.57,25.44,2.51,Low risk zone,Renovation of public parks,FALSE,520.56,3.19,Decreasing,Terrible,484068.38,TRUE
+8683,Neighborhood F,13,0.45,53.79,1.78,Low risk zone,Expansion of public transportation system,FALSE,9355.68,75.24,Increasing,Good,920571.81,FALSE
+1160,Countryside I,34,0.65,41.45,9.53,Low risk zone,Construction of new schools,TRUE,2066.78,82.93,Increasing,Terrible,591285.51,TRUE
+6767,Rural Area G,25,0.28,1.49,6.72,Low risk zone,Renovation of public parks,TRUE,6558.96,32.91,Stable,Average,510866.51,TRUE
+1778,Hamlet E,31,0.62,77.21,7.44,Low risk zone,Infrastructure development in rural areas,TRUE,2635.38,81.65,Decreasing,Good,793279.37,FALSE
+8796,Village C,20,0.8,76.29,7.92,High risk zone,Construction of new schools,TRUE,5938.91,61.33,Increasing,Excellent,816939.86,FALSE
+3964,Village C,4,0.16,54.39,1.61,Moderate risk zone,Expansion of public transportation system,FALSE,6361.75,52.99,Stable,Poor,966871.7,FALSE
+8331,Village C,41,0.26,67.92,9.37,High risk zone,Construction of new schools,TRUE,1065.48,57.25,Decreasing,Average,941697.31,FALSE
+8318,Urban Area H,44,0.8,38.87,1.8,Low risk zone,Infrastructure development in rural areas,FALSE,3194.89,53.49,Increasing,Excellent,514282.88,FALSE
+3438,Suburb D,33,0.92,49.91,9.9,Low risk zone,Construction of new schools,TRUE,5338.66,54.7,Stable,Good,761074.59,FALSE
+8143,Neighborhood F,22,0.42,94.22,6.98,Moderate risk zone,Construction of new schools,TRUE,6033.39,31.83,Increasing,Good,594038.86,FALSE
+7550,Town B,27,0.93,83.04,8.23,High risk zone,Infrastructure development in rural areas,FALSE,5658.91,35.18,Stable,Terrible,184173.19,TRUE
+3113,Village C,30,0.78,0.9,5.63,Low risk zone,Expansion of public transportation system,TRUE,8560.41,81.25,Stable,Average,675242.73,FALSE
+1539,City A,19,0.12,76.61,7.53,High risk zone,Expansion of public transportation system,TRUE,8433.26,43.17,Increasing,Poor,512659.73,TRUE
+6448,Countryside I,16,0.47,39.6,0.06,High risk zone,Infrastructure development in rural areas,TRUE,4463.91,87.59,Stable,Poor,776061.04,TRUE
+5033,Hamlet E,5,0.88,96.19,7.86,Moderate risk zone,Renovation of public parks,FALSE,5641.02,64.43,Decreasing,Terrible,987211.13,TRUE
+7909,Suburb D,33,0.65,73.71,2.97,Moderate risk zone,Renovation of public parks,FALSE,6040.58,69.43,Decreasing,Good,70544.34,FALSE
+9927,Neighborhood F,32,0.48,4.52,2.78,Moderate risk zone,Construction of new schools,TRUE,6769.78,94.84,Increasing,Excellent,215742.91,FALSE
+7432,Urban Area H,37,0.54,55.14,8.5,Low risk zone,Infrastructure development in rural areas,TRUE,9054.04,78.47,Stable,Excellent,736619.56,TRUE
+7239,Countryside I,3,0.59,67.46,3.99,High risk zone,Infrastructure development in rural areas,TRUE,3637.25,3.07,Increasing,Good,937413.48,TRUE
+5363,Town B,28,0.99,10.89,9.17,High risk zone,Renovation of public parks,TRUE,4949.32,46.65,Stable,Average,783528.03,TRUE
+9445,Coastal Area J,35,0.16,44.39,9.49,Low risk zone,Renovation of public parks,FALSE,2262.33,71.34,Increasing,Terrible,817367.65,TRUE
+9776,Urban Area H,21,0.57,51.24,0.28,Low risk zone,Expansion of public transportation system,FALSE,8594.42,25.22,Stable,Excellent,180865.68,FALSE
+8655,Suburb D,48,0.87,55.13,0.4,High risk zone,Renovation of public parks,TRUE,9194.55,49.58,Increasing,Terrible,902052.93,FALSE
+3067,Neighborhood F,24,0.65,51.35,5.45,Low risk zone,Construction of new schools,FALSE,38.7,26.77,Decreasing,Excellent,927815.42,TRUE
+6528,Coastal Area J,22,0.48,49.08,6.33,Low risk zone,Renovation of public parks,FALSE,2725.99,20.86,Decreasing,Terrible,301370.21,FALSE
+9344,Neighborhood F,7,0.66,47.62,7.05,High risk zone,Renovation of public parks,FALSE,1447.78,1.64,Decreasing,Good,186917.18,TRUE
+9451,Village C,27,0.51,57.72,2.31,Moderate risk zone,Expansion of public transportation system,TRUE,9385.19,80.66,Increasing,Good,527009.6,TRUE
+4266,Village C,23,0.78,52.14,8.06,High risk zone,Renovation of public parks,FALSE,4140.02,23.82,Decreasing,Good,62039.93,FALSE
+7291,Hamlet E,38,0.1,66.44,3.85,Moderate risk zone,Construction of new schools,FALSE,3741.58,44,Increasing,Terrible,654149.14,TRUE
+3056,Town B,47,0.28,32.12,3.94,High risk zone,Expansion of public transportation system,TRUE,1270.71,10.41,Increasing,Excellent,295956.14,TRUE
+1795,Hamlet E,4,0.67,41.61,1.83,Low risk zone,Renovation of public parks,FALSE,1954,90.71,Decreasing,Average,511670.75,TRUE
+4427,Countryside I,24,0.93,94.93,4.83,High risk zone,Expansion of public transportation system,TRUE,6634.22,10.56,Increasing,Excellent,106001.16,TRUE
+6643,Town B,24,0.43,64.48,4.47,Moderate risk zone,Expansion of public transportation system,TRUE,8663.99,28.81,Increasing,Good,350759.51,TRUE
+3184,Village C,12,0.67,47.84,1.03,Low risk zone,Renovation of public parks,FALSE,5702.47,14.94,Decreasing,Good,579229.99,FALSE
+9310,Town B,30,0.06,30.71,2.3,Low risk zone,Expansion of public transportation system,TRUE,4081.57,99.9,Increasing,Terrible,194385.6,FALSE
+4896,Suburb D,27,0.07,61.41,6.32,High risk zone,Expansion of public transportation system,FALSE,6002.87,32.36,Increasing,Good,780391.44,FALSE
+3715,Town B,42,0.02,26.82,0.89,High risk zone,Infrastructure development in rural areas,FALSE,5591.5,85.86,Decreasing,Excellent,319651.01,TRUE
+4174,City A,4,0.63,42.14,2.79,Low risk zone,Expansion of public transportation system,TRUE,247.92,12.73,Decreasing,Terrible,668519.54,TRUE
+9058,Town B,27,0.6,98.73,8.66,High risk zone,Infrastructure development in rural areas,FALSE,1374.24,10.06,Stable,Average,477276.65,TRUE
+8100,Hamlet E,8,1,87.22,2.19,Moderate risk zone,Renovation of public parks,TRUE,695.23,45.01,Increasing,Excellent,862726.55,TRUE
+9437,Rural Area G,45,0.8,12.67,1.96,High risk zone,Renovation of public parks,FALSE,3273.55,80.95,Increasing,Terrible,848628.29,FALSE
+4690,Town B,7,0.02,28.05,1.15,Low risk zone,Renovation of public parks,FALSE,2740.09,47.62,Decreasing,Terrible,874358.8,TRUE
+1335,Rural Area G,12,0.9,46.41,1.23,Low risk zone,Construction of new schools,FALSE,6054.54,12.98,Stable,Excellent,664357.73,FALSE
+1961,Urban Area H,46,0.58,73.32,6.99,Moderate risk zone,Renovation of public parks,TRUE,4522.02,98.73,Increasing,Good,281945.44,TRUE
+2450,Coastal Area J,28,0.3,75.05,0.18,High risk zone,Renovation of public parks,FALSE,7476.37,87.14,Decreasing,Poor,585630.5,TRUE
+5052,Village C,30,0.9,5.99,4.3,Low risk zone,Infrastructure development in rural areas,TRUE,2901.98,95.73,Increasing,Terrible,115591.45,FALSE
+1320,City A,16,0.93,32.14,5.8,Moderate risk zone,Construction of new schools,TRUE,6714.2,7.65,Decreasing,Average,509952.93,TRUE
+4566,Countryside I,28,0.88,52.82,0.52,Moderate risk zone,Renovation of public parks,TRUE,2315,74.11,Decreasing,Poor,552173.55,FALSE
+8590,Neighborhood F,38,0.28,28.1,2.72,Moderate risk zone,Expansion of public transportation system,TRUE,588.63,7.32,Decreasing,Good,715132.36,TRUE
+4850,City A,5,0.83,33.35,1.11,High risk zone,Construction of new schools,FALSE,1566.72,6.55,Decreasing,Poor,113132.21,TRUE
+8691,Urban Area H,26,0.33,66.35,8.84,High risk zone,Construction of new schools,FALSE,5499.96,20.75,Increasing,Terrible,288404.26,TRUE
+1412,Neighborhood F,36,0.82,69.9,4.98,Low risk zone,Expansion of public transportation system,TRUE,9388.38,1.7,Decreasing,Good,60860.38,TRUE
+1298,Suburb D,2,0.19,41.67,8.52,Low risk zone,Renovation of public parks,TRUE,3921.66,63.59,Increasing,Average,710346.06,TRUE
+5510,Rural Area G,49,0.13,66.28,2.73,Moderate risk zone,Infrastructure development in rural areas,FALSE,3551.04,80.23,Decreasing,Terrible,128390.11,TRUE
+4470,Town B,26,0.3,8.38,7.19,Low risk zone,Construction of new schools,FALSE,3822.16,60.35,Stable,Good,69296.2,TRUE
+5525,Town B,46,0.35,21.76,3.51,Moderate risk zone,Infrastructure development in rural areas,FALSE,9699.14,83.49,Stable,Poor,541246.99,TRUE
+8685,Hamlet E,29,0.52,17.16,4.72,Low risk zone,Expansion of public transportation system,FALSE,6259.88,22.94,Stable,Excellent,550378.27,FALSE
+6203,Village C,37,0.17,94.86,8.95,Low risk zone,Infrastructure development in rural areas,TRUE,3191.59,89.53,Increasing,Terrible,211766.86,FALSE
+9572,Hamlet E,37,0.4,62.67,4.29,Low risk zone,Renovation of public parks,TRUE,7839.26,14.15,Decreasing,Good,746994.87,FALSE
+4659,Town B,8,0.16,39.93,1.43,Low risk zone,Renovation of public parks,FALSE,2587.07,58.52,Decreasing,Average,201340.63,FALSE
+8029,Suburb D,16,0.28,59.17,7.36,High risk zone,Infrastructure development in rural areas,FALSE,8087.82,96.72,Increasing,Good,926355.9,FALSE
+2023,Neighborhood F,21,0.11,21.82,4.52,Moderate risk zone,Renovation of public parks,FALSE,7894.7,97.3,Decreasing,Poor,74550.71,FALSE
+7628,Town B,16,0.5,32.47,4.13,Moderate risk zone,Expansion of public transportation system,TRUE,8344.18,8.1,Increasing,Average,60198.81,FALSE
+5349,Village C,3,0.27,25.23,9.07,Moderate risk zone,Expansion of public transportation system,FALSE,3222.84,72.42,Stable,Average,531493.72,TRUE
+6422,City A,25,0.51,85.49,5.04,Moderate risk zone,Construction of new schools,FALSE,5933.8,74.08,Decreasing,Good,796852.9,TRUE
+6085,Neighborhood F,38,0.98,65.18,2.43,Low risk zone,Expansion of public transportation system,FALSE,1138.05,54.74,Decreasing,Excellent,184852.76,FALSE
+7424,Urban Area H,15,0.98,4.6,6.22,High risk zone,Construction of new schools,FALSE,7047.43,97.24,Stable,Terrible,556103.01,FALSE
+7388,Hamlet E,40,0.3,77.6,2.15,Low risk zone,Construction of new schools,TRUE,3894.67,54.68,Stable,Good,167350.71,FALSE
+4605,Village C,18,0.52,32.64,1.37,Moderate risk zone,Construction of new schools,FALSE,3602.09,10.81,Decreasing,Excellent,151089.16,FALSE
+2341,Town B,49,0.55,19.52,9.74,Moderate risk zone,Infrastructure development in rural areas,FALSE,9418.26,35.66,Stable,Excellent,776571.04,FALSE
+4153,Town B,33,0.22,53.63,6.54,Low risk zone,Expansion of public transportation system,TRUE,9097.08,52.09,Decreasing,Average,967092.36,TRUE
+9962,City A,27,0.74,32.32,0.88,Moderate risk zone,Expansion of public transportation system,TRUE,7134.02,85.45,Stable,Poor,428519.48,TRUE
+7092,Countryside I,19,0.21,24.5,5.93,Moderate risk zone,Construction of new schools,TRUE,6472.62,18.58,Stable,Excellent,910402.52,TRUE
+1995,Urban Area H,48,0.22,24.16,1.26,High risk zone,Renovation of public parks,TRUE,6422.29,31.95,Decreasing,Poor,772495.11,FALSE
+9902,Countryside I,34,0.27,62.92,4.7,Low risk zone,Renovation of public parks,TRUE,9825.1,83.31,Stable,Good,709350.85,TRUE
+6000,Urban Area H,27,0.56,20.7,0.18,High risk zone,Expansion of public transportation system,FALSE,4933.29,81.93,Increasing,Excellent,209775.98,TRUE
+1611,Suburb D,41,0.69,73.79,8.72,Moderate risk zone,Renovation of public parks,FALSE,4588.67,34.28,Stable,Average,128652.48,FALSE
+8990,Urban Area H,27,0.36,3.04,1.86,Moderate risk zone,Renovation of public parks,FALSE,511.47,78.77,Increasing,Terrible,896450.08,TRUE
+2321,Coastal Area J,5,0.65,17.41,9.51,Moderate risk zone,Infrastructure development in rural areas,TRUE,5020.39,5.65,Stable,Poor,157181.74,FALSE
+6879,Hamlet E,50,0.68,58.63,1.85,Low risk zone,Expansion of public transportation system,FALSE,302.46,46.77,Increasing,Average,75537.44,FALSE
+3477,Neighborhood F,33,0.58,98.47,7.01,Moderate risk zone,Renovation of public parks,TRUE,4680.62,83.81,Stable,Average,524482.75,TRUE
+6030,Town B,2,0.21,72.44,9.1,Moderate risk zone,Construction of new schools,FALSE,5281.76,87.8,Stable,Good,565090.42,TRUE
+5217,Neighborhood F,8,0.09,50.24,2.21,Moderate risk zone,Infrastructure development in rural areas,TRUE,6282.86,0.32,Stable,Average,453926.01,FALSE
+3714,Rural Area G,18,0.69,89.33,0.94,High risk zone,Renovation of public parks,TRUE,2481.62,81.76,Increasing,Good,626727.61,TRUE
+2154,Coastal Area J,25,0.36,38.36,9.87,High risk zone,Infrastructure development in rural areas,FALSE,9579.49,76.24,Stable,Good,399517.04,TRUE
+8124,Neighborhood F,43,0.1,37.3,3.75,Moderate risk zone,Expansion of public transportation system,TRUE,5094.67,57.69,Increasing,Poor,891522.7,TRUE
+1920,Urban Area H,48,0.06,87.57,4.37,Low risk zone,Renovation of public parks,TRUE,9632.63,75.07,Increasing,Terrible,855390.23,TRUE
+6817,Neighborhood F,3,0.07,14.21,8.77,High risk zone,Construction of new schools,FALSE,4564.15,55.15,Decreasing,Poor,310874.56,FALSE
+9985,Rural Area G,12,0.43,32.34,2.84,Moderate risk zone,Construction of new schools,TRUE,6700.63,29.7,Increasing,Excellent,148007.74,FALSE
+5714,Town B,40,0.27,29.43,0.55,High risk zone,Renovation of public parks,TRUE,1716.75,2.54,Decreasing,Terrible,743460.21,TRUE
+9756,City A,31,0.19,65.13,9.21,Moderate risk zone,Renovation of public parks,TRUE,1719.74,48.12,Stable,Terrible,376030.55,FALSE
+4750,Neighborhood F,7,0.18,30.44,2.56,High risk zone,Renovation of public parks,TRUE,4302.56,92.36,Stable,Poor,948514.05,FALSE
+1596,Neighborhood F,36,0.34,32.05,8.41,Low risk zone,Expansion of public transportation system,TRUE,7281.52,13.08,Stable,Poor,244615.59,FALSE
+5607,Hamlet E,37,0.73,67.78,8.68,High risk zone,Construction of new schools,FALSE,7355.26,17.06,Stable,Terrible,254895.84,TRUE
+1740,Town B,2,0.68,39.58,2.22,Moderate risk zone,Construction of new schools,TRUE,4246.34,1.28,Stable,Good,731490.54,FALSE
+6643,Town B,28,0.33,52.7,4.95,Moderate risk zone,Infrastructure development in rural areas,TRUE,3428.46,6.59,Stable,Average,967635.31,TRUE
+9924,Urban Area H,4,0.36,77.38,8.04,Moderate risk zone,Infrastructure development in rural areas,FALSE,8384.55,72.6,Increasing,Average,729402.25,TRUE
+5045,Hamlet E,47,0.09,43.15,4.29,Moderate risk zone,Construction of new schools,TRUE,4582.01,17.22,Stable,Excellent,860028.79,FALSE
+2048,Coastal Area J,49,0.99,32.42,0.45,Low risk zone,Infrastructure development in rural areas,TRUE,4033.77,5.64,Decreasing,Average,927274.01,FALSE
+1573,Suburb D,29,0.96,28.4,3.41,Low risk zone,Expansion of public transportation system,FALSE,2678.26,77.18,Increasing,Excellent,593456.57,TRUE
+6750,Town B,17,0.38,10.87,1.49,High risk zone,Renovation of public parks,TRUE,3851.13,60.51,Decreasing,Terrible,435695.54,TRUE
+4999,Town B,6,0.12,3.6,0.67,High risk zone,Renovation of public parks,TRUE,2986.66,73.8,Stable,Excellent,877283.65,FALSE
+5798,Village C,44,0.26,9.42,9.39,High risk zone,Infrastructure development in rural areas,FALSE,8007.42,31.72,Stable,Poor,298113.28,TRUE
+7461,Rural Area G,16,0.08,5.53,4.65,Low risk zone,Construction of new schools,FALSE,5377.81,35.7,Stable,Poor,790324.33,TRUE
+8517,City A,31,0.99,55.23,6.16,Moderate risk zone,Construction of new schools,FALSE,3243.72,46.02,Stable,Average,203987.77,TRUE
+9567,Village C,30,0.49,2.37,3.26,Low risk zone,Renovation of public parks,TRUE,2565.64,10.45,Increasing,Poor,442643.76,TRUE
+6832,Suburb D,21,0.49,13.09,4.97,Low risk zone,Renovation of public parks,FALSE,3523.72,46.29,Stable,Excellent,975798.27,TRUE
+6452,City A,5,0.01,33.55,8.13,High risk zone,Renovation of public parks,TRUE,9518.64,22.8,Increasing,Poor,684547.02,TRUE
+9095,Hamlet E,50,0.32,63.01,1.9,High risk zone,Infrastructure development in rural areas,TRUE,9551.79,33.53,Decreasing,Average,448866.34,FALSE
+9273,Rural Area G,4,0.12,34.11,2.74,Moderate risk zone,Renovation of public parks,FALSE,9190.45,48.06,Decreasing,Poor,987595.9,FALSE
+1990,Town B,34,0.26,70.13,2.63,Moderate risk zone,Expansion of public transportation system,TRUE,4654.66,30.77,Decreasing,Good,126522,TRUE
+1576,Coastal Area J,32,0.17,96.29,4.21,High risk zone,Expansion of public transportation system,TRUE,2674.64,33.58,Increasing,Average,644918.97,TRUE
+9906,Countryside I,27,0.77,36.43,0.54,Moderate risk zone,Renovation of public parks,TRUE,482.92,76.8,Decreasing,Good,515174.22,TRUE
+9617,Town B,48,0.63,26.27,8.08,Low risk zone,Infrastructure development in rural areas,FALSE,4316.8,55.94,Decreasing,Good,211084.63,FALSE
+3487,Neighborhood F,18,0.87,8.08,0.06,Low risk zone,Infrastructure development in rural areas,TRUE,5265.32,94.5,Increasing,Poor,667977.83,FALSE
+3128,Town B,14,0.15,83.2,8.86,High risk zone,Infrastructure development in rural areas,TRUE,2934.36,43.78,Stable,Terrible,38928.09,TRUE
+9466,Town B,22,0.1,12.61,2.07,Moderate risk zone,Construction of new schools,FALSE,733.94,86.27,Stable,Excellent,292051.88,TRUE
+5274,Village C,27,0.11,69.12,2.49,Low risk zone,Infrastructure development in rural areas,TRUE,410.13,94.8,Stable,Excellent,364115.47,TRUE
+5559,Rural Area G,32,0.36,45.78,7.94,Moderate risk zone,Renovation of public parks,TRUE,2550.6,72.43,Decreasing,Terrible,90916.61,FALSE
+2229,Village C,46,0.93,36.34,1.83,Low risk zone,Infrastructure development in rural areas,FALSE,5243.72,62.21,Increasing,Excellent,265385.52,FALSE
+1619,Neighborhood F,15,0.47,60.56,3.96,High risk zone,Construction of new schools,TRUE,2087.56,11.02,Increasing,Good,108358.28,FALSE
+5320,Countryside I,6,0.71,2.57,9.48,Moderate risk zone,Renovation of public parks,FALSE,9286.29,76.99,Increasing,Average,450301.47,FALSE
+6667,Neighborhood F,35,0.39,25.06,5.53,High risk zone,Renovation of public parks,FALSE,9178.51,24.34,Increasing,Poor,381517.83,TRUE
+4102,City A,4,0.93,25.73,8.64,Moderate risk zone,Infrastructure development in rural areas,FALSE,9133.56,50.39,Stable,Good,583420.48,TRUE
+1427,Neighborhood F,23,0.87,24.87,5.43,Low risk zone,Expansion of public transportation system,TRUE,1931.85,87.88,Stable,Average,478311.25,TRUE
+2900,Urban Area H,8,0.32,87.37,6.86,High risk zone,Construction of new schools,TRUE,3777.55,68.79,Stable,Average,928369.43,FALSE
+8668,Countryside I,13,0.57,28.46,9.41,Moderate risk zone,Infrastructure development in rural areas,FALSE,7435.52,18.9,Decreasing,Poor,151954.3,TRUE
+6982,City A,42,0.58,71,6.95,Moderate risk zone,Renovation of public parks,TRUE,2013.33,54.76,Increasing,Terrible,129350.94,TRUE
+1267,Neighborhood F,6,0.34,91.37,4.53,High risk zone,Expansion of public transportation system,FALSE,3307.99,30.83,Stable,Terrible,507712.26,TRUE
+2937,Town B,35,0.41,83.96,9.21,Low risk zone,Infrastructure development in rural areas,TRUE,8764.85,8.91,Decreasing,Poor,395294.19,TRUE
+4595,Hamlet E,16,0.09,20.25,3.48,Moderate risk zone,Renovation of public parks,TRUE,7029.28,11.27,Decreasing,Average,105949.8,TRUE
+9096,Coastal Area J,50,0.32,65.37,8.3,High risk zone,Expansion of public transportation system,FALSE,7770.26,42.77,Increasing,Excellent,307461.33,TRUE
+5951,Coastal Area J,50,0.69,23.62,9.98,Low risk zone,Infrastructure development in rural areas,TRUE,1053.92,38.77,Decreasing,Good,996328.35,FALSE
+9526,Neighborhood F,44,0.23,42.14,8.67,Moderate risk zone,Infrastructure development in rural areas,FALSE,774.85,47.49,Stable,Terrible,409071.88,FALSE
+1704,Urban Area H,41,0.14,51.35,4.05,Moderate risk zone,Renovation of public parks,FALSE,2808.81,70.62,Decreasing,Excellent,393879.04,FALSE
+6309,Neighborhood F,18,0.7,8.32,8.46,High risk zone,Infrastructure development in rural areas,FALSE,7087.48,92.27,Increasing,Poor,573763.39,FALSE
+6299,Suburb D,15,0.85,95.83,0.22,High risk zone,Renovation of public parks,FALSE,8152.68,18.84,Decreasing,Excellent,513873.4,TRUE
+8972,City A,7,0.78,49.12,7.42,High risk zone,Construction of new schools,FALSE,543.83,95.9,Stable,Poor,973034.82,FALSE
+8970,Rural Area G,8,0.97,13.54,2.4,Moderate risk zone,Expansion of public transportation system,FALSE,7834.59,81.36,Increasing,Excellent,666760.05,TRUE
+1410,Town B,21,0.42,58.82,3.52,Moderate risk zone,Construction of new schools,TRUE,1227.85,23.46,Increasing,Terrible,442666.08,TRUE
+5695,Countryside I,39,0.56,3.02,0.57,High risk zone,Construction of new schools,TRUE,4032.4,98.86,Stable,Excellent,44778.17,TRUE
+1390,Rural Area G,27,0.81,86.96,7.77,Moderate risk zone,Renovation of public parks,TRUE,827.43,96.29,Stable,Excellent,320239.56,FALSE
+7242,Coastal Area J,23,0.5,28.93,3.56,Moderate risk zone,Construction of new schools,FALSE,6787.67,39.7,Decreasing,Average,207071.63,FALSE
+2687,Hamlet E,38,0.61,3,4.57,Moderate risk zone,Infrastructure development in rural areas,TRUE,5961.15,80.65,Decreasing,Poor,355405.3,FALSE
+1603,City A,27,0.98,41.31,8.22,Moderate risk zone,Construction of new schools,FALSE,4062.12,38.98,Increasing,Excellent,846020.6,TRUE
+3568,City A,1,0.54,59.94,3.74,Low risk zone,Infrastructure development in rural areas,TRUE,8277.74,76.33,Increasing,Average,344801.95,TRUE
+6010,Countryside I,9,0.24,7.25,1.76,High risk zone,Infrastructure development in rural areas,FALSE,86.18,84.03,Stable,Good,316709.01,FALSE
+3913,Rural Area G,45,0.79,65.63,7.34,Moderate risk zone,Renovation of public parks,TRUE,4478.29,89.03,Stable,Good,164045.25,FALSE
+7469,Suburb D,34,0.54,55.47,8.41,Low risk zone,Renovation of public parks,TRUE,7254.8,49.18,Decreasing,Terrible,395271.79,TRUE
+8265,Coastal Area J,27,0.03,73.74,9.39,Low risk zone,Infrastructure development in rural areas,TRUE,8889.7,60.49,Increasing,Terrible,317197.7,TRUE
+8433,Town B,49,0.86,13.5,4.57,High risk zone,Renovation of public parks,FALSE,6019.74,9.33,Decreasing,Excellent,386126.08,TRUE
+2890,City A,17,0.24,19.36,4.22,Low risk zone,Renovation of public parks,FALSE,3394.9,64.61,Decreasing,Terrible,524951.15,FALSE
+1504,Rural Area G,3,0.91,82.67,8.08,Low risk zone,Renovation of public parks,TRUE,911.73,66.03,Increasing,Average,93928.57,TRUE
+3232,City A,9,0.12,51.3,1.89,High risk zone,Renovation of public parks,FALSE,7780.68,67.64,Increasing,Poor,535350.12,FALSE
+5999,Neighborhood F,45,0.7,6.68,9.77,High risk zone,Construction of new schools,TRUE,2860.32,52.06,Stable,Average,470726.56,FALSE
+2353,Town B,32,0.13,44.73,3.82,Low risk zone,Construction of new schools,TRUE,4628.05,97.43,Increasing,Terrible,751240.63,TRUE
+3255,Countryside I,6,0.12,95.17,7.47,Moderate risk zone,Renovation of public parks,FALSE,8180.04,61.06,Decreasing,Average,212007.61,FALSE
+6720,Suburb D,28,0.39,40.8,7.35,Low risk zone,Infrastructure development in rural areas,TRUE,1494.96,70.63,Increasing,Terrible,209385.71,TRUE
+3434,Town B,50,0.14,70.02,4.66,Moderate risk zone,Construction of new schools,FALSE,6707.32,65.18,Decreasing,Poor,341345.25,FALSE
+4709,Hamlet E,42,0.34,99.48,9.02,Moderate risk zone,Renovation of public parks,TRUE,3377.18,7.14,Increasing,Excellent,168433.35,FALSE
+2022,Neighborhood F,42,0.88,26.37,5.37,High risk zone,Construction of new schools,FALSE,3064.91,63.29,Stable,Average,89554.05,TRUE
+5225,City A,6,0.56,80.27,1.67,Moderate risk zone,Expansion of public transportation system,TRUE,3505.39,93.08,Stable,Average,481573.33,FALSE
+2365,Coastal Area J,46,0.12,95.08,6.92,Moderate risk zone,Renovation of public parks,FALSE,6487.82,0.42,Stable,Poor,916549.54,TRUE
+5405,City A,41,0.74,75.58,8.12,Low risk zone,Infrastructure development in rural areas,TRUE,7758.87,73.57,Increasing,Good,604812.3,TRUE
+9545,Rural Area G,12,0.45,31.67,0.92,High risk zone,Infrastructure development in rural areas,TRUE,9924.62,41.75,Increasing,Average,742278.1,FALSE
+1601,Urban Area H,27,0.08,87.34,0.39,Moderate risk zone,Expansion of public transportation system,TRUE,2332.05,19.02,Decreasing,Excellent,972607.74,FALSE
+4895,Urban Area H,40,0.13,33.28,0.32,Moderate risk zone,Expansion of public transportation system,TRUE,8139.26,22.78,Stable,Good,59815.4,FALSE
+1563,Town B,23,0.87,9.54,0.4,Low risk zone,Construction of new schools,TRUE,7098.36,97.13,Stable,Terrible,866917.21,FALSE
+3898,Hamlet E,45,0.6,5.77,0.27,High risk zone,Infrastructure development in rural areas,FALSE,690.47,47.04,Stable,Terrible,845694.3,FALSE
+7140,Neighborhood F,21,0.46,72.28,6.18,Low risk zone,Expansion of public transportation system,FALSE,420.78,45.28,Stable,Good,268897.22,TRUE
+3107,Village C,30,0.71,38.72,5.64,Moderate risk zone,Expansion of public transportation system,FALSE,6551.09,79.58,Increasing,Average,156586.05,TRUE
+7403,Village C,46,0.97,88.77,0.31,High risk zone,Construction of new schools,TRUE,2553.78,62.4,Stable,Average,323335.02,FALSE
+7027,City A,31,0.19,41.84,7.64,Moderate risk zone,Expansion of public transportation system,FALSE,4076.26,13.56,Stable,Good,821463.83,TRUE
+7201,Village C,6,0.8,28.28,5.82,Low risk zone,Renovation of public parks,FALSE,1638.13,37.96,Decreasing,Excellent,106990.71,TRUE
+3410,Neighborhood F,6,0.16,72.08,9.02,Low risk zone,Construction of new schools,FALSE,5423.53,35.62,Decreasing,Excellent,902483.4,TRUE
+9549,Rural Area G,35,0.86,89.06,3.12,Low risk zone,Renovation of public parks,TRUE,3675.57,24.2,Stable,Average,724108.43,TRUE
+3784,Town B,35,0.34,10.78,4.91,High risk zone,Renovation of public parks,FALSE,9721.39,88.37,Stable,Poor,362384,TRUE
+9291,City A,15,0.42,96.01,2.01,Low risk zone,Construction of new schools,TRUE,3120.06,61.58,Stable,Poor,216486.67,TRUE
+9360,Town B,42,0.46,85.44,5.08,Low risk zone,Expansion of public transportation system,TRUE,9825.62,43.08,Increasing,Good,829021.39,TRUE
+1876,Rural Area G,47,0.51,18.7,4.76,High risk zone,Renovation of public parks,FALSE,7664.92,84.72,Stable,Excellent,47882.1,FALSE
+6915,Hamlet E,41,0.94,44.3,5.74,Moderate risk zone,Construction of new schools,FALSE,287,58.89,Stable,Terrible,708844.85,FALSE
+5663,City A,12,0.86,4.37,0.92,Low risk zone,Renovation of public parks,FALSE,8141.16,87.23,Decreasing,Poor,360560.19,TRUE
+7366,Coastal Area J,33,0.83,46.78,9.44,High risk zone,Renovation of public parks,TRUE,8867.16,94.59,Decreasing,Poor,571458.24,TRUE
+8413,Suburb D,47,0.86,25.95,6.36,Moderate risk zone,Construction of new schools,FALSE,519.79,89.75,Decreasing,Poor,670070.51,FALSE
+6714,Suburb D,13,0.79,34.76,8,Low risk zone,Infrastructure development in rural areas,TRUE,6548.23,81.46,Decreasing,Good,773427.75,FALSE
+9227,Coastal Area J,31,0.62,49.48,6.92,Low risk zone,Renovation of public parks,TRUE,983.61,52.08,Stable,Average,984956.78,TRUE
+8831,Countryside I,5,0.6,70.13,9.63,Moderate risk zone,Infrastructure development in rural areas,FALSE,3123.94,64.69,Stable,Average,223646.97,TRUE
+8789,City A,26,0.28,25.49,6.56,Moderate risk zone,Infrastructure development in rural areas,FALSE,1519.89,92.35,Decreasing,Average,188195.06,FALSE
+5194,Countryside I,16,0.64,19.09,5.1,Low risk zone,Construction of new schools,FALSE,1350.4,20,Decreasing,Good,225270.81,TRUE
+2987,Urban Area H,1,1,65.36,3.89,High risk zone,Construction of new schools,TRUE,2679.8,68.01,Decreasing,Excellent,84675.68,FALSE
+3712,Countryside I,21,0.37,53.87,7.38,Low risk zone,Renovation of public parks,FALSE,7225.33,59.68,Stable,Excellent,40865.17,TRUE
+3277,Neighborhood F,4,0.53,30.63,6.45,Low risk zone,Expansion of public transportation system,FALSE,9934.13,36.79,Increasing,Poor,669796.32,FALSE
+2245,Village C,29,0.91,84.22,3.14,High risk zone,Infrastructure development in rural areas,TRUE,3919.17,85.87,Increasing,Terrible,536207.19,TRUE
+3523,City A,26,0.46,42.05,9.4,Moderate risk zone,Infrastructure development in rural areas,FALSE,4585.74,27.86,Stable,Good,109890.92,FALSE
+2561,Rural Area G,47,0.74,81.7,4.94,High risk zone,Infrastructure development in rural areas,TRUE,1598.87,46.22,Stable,Poor,369330,FALSE
+1340,Town B,31,0.8,36.28,5.33,Low risk zone,Construction of new schools,FALSE,9566.47,23.69,Decreasing,Poor,570395.41,TRUE
+4264,Coastal Area J,30,0.49,83.4,6.46,High risk zone,Infrastructure development in rural areas,FALSE,9024.73,7.85,Increasing,Poor,866891.57,FALSE
+7027,Countryside I,28,0.28,62.56,8.17,High risk zone,Construction of new schools,TRUE,178.68,75,Decreasing,Excellent,768770.36,FALSE
+7381,Rural Area G,31,0.69,47.45,8.89,Moderate risk zone,Expansion of public transportation system,TRUE,3085.34,65.63,Increasing,Terrible,306056.46,TRUE
+8723,City A,41,0.98,5.86,3.87,Low risk zone,Infrastructure development in rural areas,TRUE,8149.9,62.99,Decreasing,Average,535405.67,TRUE
+7088,Suburb D,42,0.69,36.32,3.75,High risk zone,Construction of new schools,TRUE,9084.75,40.24,Stable,Good,680568.43,FALSE
+5555,Hamlet E,27,0.75,39.7,3.93,High risk zone,Expansion of public transportation system,FALSE,6756.32,96.39,Increasing,Terrible,807979.84,TRUE
+8658,Rural Area G,2,0.12,55.78,7.55,Moderate risk zone,Construction of new schools,TRUE,2507.69,45.39,Decreasing,Terrible,942713.81,FALSE
+3489,Suburb D,31,0.13,71.13,3.69,Moderate risk zone,Construction of new schools,TRUE,3714.1,39.35,Decreasing,Poor,376707.56,FALSE
+2372,Countryside I,11,0.65,89.56,1.99,High risk zone,Construction of new schools,TRUE,7520.81,88.79,Stable,Good,57879.18,FALSE
+3479,Countryside I,15,0.26,61.9,6.73,Moderate risk zone,Renovation of public parks,TRUE,9071.94,11.64,Increasing,Terrible,516899.34,TRUE
+3758,City A,14,0.72,16.27,3.56,High risk zone,Expansion of public transportation system,TRUE,6224.96,82.42,Increasing,Excellent,471423.64,FALSE
+6944,Village C,33,0.91,53.52,9.27,Low risk zone,Construction of new schools,TRUE,3276.25,28.46,Stable,Average,529730.48,TRUE
+4457,Neighborhood F,41,0.83,29.86,1.17,Moderate risk zone,Renovation of public parks,TRUE,2721.51,34.54,Decreasing,Poor,30931.38,FALSE
+2762,City A,27,0.73,36.51,3.33,Moderate risk zone,Renovation of public parks,FALSE,1314.18,15.06,Stable,Good,352094.35,TRUE
+9416,Neighborhood F,4,0.53,93.98,5.11,Moderate risk zone,Infrastructure development in rural areas,TRUE,5719.46,40.94,Decreasing,Average,179172.07,TRUE
+4478,Coastal Area J,18,0.96,55.1,3.92,Moderate risk zone,Construction of new schools,FALSE,2259.53,64.49,Stable,Average,541889.6,TRUE
+9759,City A,22,0.49,29.95,4.47,Low risk zone,Construction of new schools,FALSE,1674.43,42.47,Stable,Excellent,194048.41,TRUE
+7060,Rural Area G,15,0.6,65.41,5.85,High risk zone,Construction of new schools,TRUE,2493.9,65.89,Decreasing,Average,964937.42,FALSE
+3424,Neighborhood F,18,0.67,78.2,5.01,Low risk zone,Renovation of public parks,FALSE,7338.45,90.18,Decreasing,Excellent,96050.25,FALSE
+3656,City A,13,0.51,16.44,7.11,High risk zone,Construction of new schools,TRUE,2688.52,6.1,Decreasing,Poor,849432.83,TRUE
+6419,Hamlet E,10,0.32,68.76,5.03,High risk zone,Renovation of public parks,TRUE,6361.02,1.85,Stable,Terrible,293097.18,TRUE
+6424,City A,7,0.75,65.16,1.29,Moderate risk zone,Expansion of public transportation system,TRUE,8579.52,7.79,Stable,Poor,679261.59,TRUE
+9852,Neighborhood F,11,0.03,6.18,7.46,Low risk zone,Construction of new schools,FALSE,1928.59,23.88,Stable,Average,485440.96,FALSE
+2375,Countryside I,31,0.49,69.86,3.46,High risk zone,Renovation of public parks,FALSE,6567.92,49.43,Decreasing,Average,276958.43,FALSE
+2344,Neighborhood F,28,0.45,43.65,1.28,Low risk zone,Expansion of public transportation system,TRUE,6715.08,10.93,Decreasing,Terrible,839931.58,FALSE
+9999,Town B,19,0.54,25.36,0.91,High risk zone,Infrastructure development in rural areas,TRUE,8119.83,76.94,Increasing,Average,243521.9,TRUE
+9866,Rural Area G,1,0.52,38.97,8.63,Low risk zone,Construction of new schools,FALSE,7879.39,69.65,Stable,Excellent,375701.98,TRUE
+5372,Urban Area H,33,0.9,49.93,7.35,Moderate risk zone,Construction of new schools,TRUE,5927.02,92.28,Increasing,Terrible,168287,TRUE
+1417,Village C,10,0.36,81.44,6.28,High risk zone,Renovation of public parks,FALSE,1598.51,85.16,Increasing,Excellent,232114.18,FALSE
+9822,Village C,25,0.63,25.75,5.42,High risk zone,Renovation of public parks,FALSE,4565.59,63.72,Stable,Good,836845.32,FALSE
+8869,Coastal Area J,41,0.78,13.99,4.8,High risk zone,Construction of new schools,TRUE,4817.69,15.63,Stable,Good,826818.01,TRUE
+1776,Countryside I,27,0.11,65.76,2.16,Moderate risk zone,Renovation of public parks,TRUE,7092.57,6.12,Stable,Good,642206.96,FALSE
+1364,Rural Area G,14,0.46,46.85,5.01,Low risk zone,Construction of new schools,FALSE,6010.26,5.7,Increasing,Poor,689390.94,FALSE
+5783,Suburb D,20,0.8,69.13,7.41,High risk zone,Infrastructure development in rural areas,TRUE,3616,23.35,Stable,Poor,613971.32,FALSE
+6883,Hamlet E,19,0.97,65.86,4.3,Low risk zone,Infrastructure development in rural areas,TRUE,2476.93,98.69,Stable,Excellent,870312.66,FALSE
+7317,Rural Area G,12,0.79,91.85,1.22,Low risk zone,Infrastructure development in rural areas,FALSE,1923.57,75.66,Increasing,Terrible,322514.86,TRUE
+5561,Town B,48,0.55,3.49,5.09,High risk zone,Expansion of public transportation system,FALSE,1395.46,6.13,Decreasing,Poor,774089.24,FALSE
+3952,Neighborhood F,24,0.04,97.25,2.49,Moderate risk zone,Expansion of public transportation system,TRUE,7521.51,84.37,Stable,Excellent,486780.53,FALSE
+1289,Countryside I,47,0.88,95.87,0.04,High risk zone,Renovation of public parks,TRUE,2200.49,85.84,Stable,Poor,201485.48,FALSE
+8484,Neighborhood F,16,0.29,89.76,0.7,Moderate risk zone,Renovation of public parks,FALSE,5742.59,66,Decreasing,Excellent,64844.62,TRUE
+2896,Hamlet E,16,0.76,31.02,9.7,Low risk zone,Construction of new schools,FALSE,5052.32,12.88,Decreasing,Average,76442.28,TRUE
+3056,Urban Area H,30,0.79,51.16,5.37,High risk zone,Construction of new schools,FALSE,7799.01,39.07,Stable,Good,253775.18,FALSE
+3573,Urban Area H,15,0.38,78.83,9.67,High risk zone,Renovation of public parks,TRUE,9082.03,49.69,Stable,Good,457818.79,FALSE
+2741,Urban Area H,41,0.4,90.03,8.75,Moderate risk zone,Construction of new schools,TRUE,1090.17,39.14,Stable,Good,96065.93,FALSE
+9648,Village C,50,0.49,83.98,9.13,Low risk zone,Infrastructure development in rural areas,FALSE,5511.68,14.02,Stable,Good,842688.42,TRUE
+8480,Hamlet E,38,0.49,14.52,5.01,Low risk zone,Construction of new schools,FALSE,1352.48,19.36,Stable,Terrible,160573.42,TRUE
+8579,Countryside I,33,0.06,64.63,8.51,Moderate risk zone,Infrastructure development in rural areas,TRUE,9960.35,52.61,Decreasing,Excellent,131020.73,TRUE
+7931,Suburb D,31,0.54,93.41,4.88,High risk zone,Renovation of public parks,FALSE,2968.32,47.65,Increasing,Average,390114.11,FALSE
+3989,Hamlet E,9,0.77,75.01,7.32,Moderate risk zone,Construction of new schools,TRUE,7116.73,90.04,Stable,Good,365365.4,TRUE
+5825,Town B,19,0.03,32.07,7.68,Moderate risk zone,Renovation of public parks,FALSE,438.71,24.8,Increasing,Average,454006.45,FALSE
+3864,Hamlet E,13,0.83,34.08,6.4,Moderate risk zone,Construction of new schools,TRUE,8132.13,80.2,Stable,Excellent,19115.34,FALSE
+7739,Rural Area G,9,0.99,21.46,5.65,High risk zone,Infrastructure development in rural areas,TRUE,7462.19,77.58,Decreasing,Excellent,597380.54,TRUE
+6440,Countryside I,11,0.18,29.63,5.99,High risk zone,Infrastructure development in rural areas,FALSE,7195.67,98.07,Decreasing,Terrible,160456.97,TRUE
+1719,Hamlet E,23,0.61,71.75,6.82,Low risk zone,Infrastructure development in rural areas,FALSE,6954.04,12.43,Decreasing,Terrible,559993.4,TRUE
+9395,Town B,22,0.94,21.55,3.81,Low risk zone,Construction of new schools,TRUE,5921.72,60.85,Stable,Average,848417.65,FALSE
+9842,Urban Area H,41,0.28,76.13,6.74,Moderate risk zone,Infrastructure development in rural areas,TRUE,2855.05,9.81,Decreasing,Terrible,276107.23,FALSE
+6573,Coastal Area J,16,0.22,7.21,1.68,Moderate risk zone,Expansion of public transportation system,TRUE,1106.57,59.44,Stable,Poor,78424.87,TRUE
+5682,City A,48,0.7,83.41,8.38,Low risk zone,Renovation of public parks,TRUE,9200.24,85.65,Stable,Poor,64637.16,FALSE
+7228,Town B,26,0.86,43.03,7.01,Low risk zone,Expansion of public transportation system,FALSE,8150.74,56.73,Increasing,Good,981258.48,TRUE
+5953,Village C,10,0.36,48.33,0.96,Moderate risk zone,Renovation of public parks,TRUE,957.75,60.88,Increasing,Average,836773.98,TRUE
+2935,Town B,1,0.73,19.46,4.33,High risk zone,Expansion of public transportation system,TRUE,7915.97,32.5,Decreasing,Average,35031.47,TRUE
+6712,Hamlet E,37,0.24,68.81,6.88,Low risk zone,Infrastructure development in rural areas,FALSE,1058.38,4.02,Increasing,Poor,918800.98,FALSE
+5023,City A,23,0.55,70.35,0.16,Moderate risk zone,Construction of new schools,TRUE,1200.57,86.03,Decreasing,Excellent,710363.44,FALSE
+5277,Urban Area H,28,0.46,18.88,5.25,Moderate risk zone,Infrastructure development in rural areas,FALSE,3095.41,28.8,Stable,Good,568435.41,TRUE
+1162,City A,7,0.21,84.88,0.33,High risk zone,Construction of new schools,TRUE,8409.97,27.27,Increasing,Average,813508,FALSE
+5886,Hamlet E,23,0.63,79.84,6.49,High risk zone,Construction of new schools,FALSE,2065.85,54.23,Increasing,Good,246815.22,TRUE
+2827,Village C,43,0.63,42.76,6.27,Moderate risk zone,Construction of new schools,TRUE,3647.14,90.69,Stable,Terrible,202089.54,TRUE
+8776,Hamlet E,14,0.07,80.94,0.38,High risk zone,Expansion of public transportation system,FALSE,466.65,61.38,Stable,Good,159832.78,TRUE
+3693,Town B,49,0.05,40.22,8.24,Low risk zone,Infrastructure development in rural areas,FALSE,1780.7,31.74,Increasing,Poor,805270.99,TRUE
+4256,City A,20,0.86,85.21,3.89,Low risk zone,Renovation of public parks,TRUE,3314.38,95.5,Increasing,Good,203577.84,TRUE
+6031,Neighborhood F,5,0.85,27.11,0.79,Moderate risk zone,Infrastructure development in rural areas,TRUE,1039.42,9.12,Increasing,Terrible,641474.89,FALSE
+8051,Village C,43,0.27,50.23,5.62,Moderate risk zone,Infrastructure development in rural areas,TRUE,2992.78,9.21,Decreasing,Poor,85400.34,FALSE
+1122,Countryside I,35,0.2,60.08,6.63,Low risk zone,Construction of new schools,TRUE,9800.13,50.35,Increasing,Terrible,30908.82,TRUE
+3444,Coastal Area J,13,0.54,48.99,4.11,High risk zone,Renovation of public parks,TRUE,2342.15,39.27,Decreasing,Excellent,896717.78,TRUE
+2522,Hamlet E,25,0.95,3.64,2.74,High risk zone,Construction of new schools,FALSE,951.96,89.72,Increasing,Terrible,205556.9,TRUE
+9366,Town B,19,0.4,66.06,2.12,High risk zone,Infrastructure development in rural areas,FALSE,6354.58,15.48,Decreasing,Good,108435.41,TRUE
+2768,Suburb D,3,0.54,99.63,1.53,High risk zone,Construction of new schools,FALSE,1756.26,92.88,Increasing,Excellent,758847.1,FALSE
+4872,Village C,15,0.67,38.46,8.02,Moderate risk zone,Renovation of public parks,FALSE,7325.34,12.44,Increasing,Excellent,562548.97,TRUE
+4803,Neighborhood F,12,0.71,56.36,8.08,Moderate risk zone,Construction of new schools,FALSE,1578.57,61.06,Decreasing,Excellent,897257.68,TRUE
+6409,Urban Area H,47,0.34,41.75,1.67,Moderate risk zone,Renovation of public parks,TRUE,6674.07,25.57,Decreasing,Terrible,976835.51,TRUE
+2835,Hamlet E,5,0.81,22.25,5.38,Moderate risk zone,Infrastructure development in rural areas,FALSE,9833.61,78.23,Increasing,Terrible,652699.08,TRUE
+9737,Town B,29,0.89,20.5,4.58,High risk zone,Infrastructure development in rural areas,FALSE,7314.26,44.2,Stable,Good,688831.48,FALSE
+9841,Hamlet E,45,0.78,22.76,1.37,Moderate risk zone,Infrastructure development in rural areas,TRUE,5976.26,25.76,Increasing,Excellent,87172.66,TRUE
+3253,Suburb D,12,0.47,31.49,4.78,Moderate risk zone,Construction of new schools,FALSE,2565.22,17.93,Decreasing,Terrible,164303.18,TRUE
+7556,Neighborhood F,21,0.85,47.89,3.59,Moderate risk zone,Construction of new schools,FALSE,2855.23,65.08,Increasing,Average,681191,TRUE
+4183,Coastal Area J,3,0.61,26.34,7.19,Low risk zone,Infrastructure development in rural areas,FALSE,9187.28,2.39,Stable,Poor,86914.46,TRUE
+3844,City A,7,0.72,4.32,8.43,Low risk zone,Infrastructure development in rural areas,FALSE,3680.99,66.14,Increasing,Good,133984.9,TRUE
+1433,Neighborhood F,3,0.37,65.82,9.97,High risk zone,Infrastructure development in rural areas,TRUE,4063.8,23.78,Increasing,Excellent,953067.43,FALSE
+9817,Coastal Area J,32,0.24,33.05,0.43,Moderate risk zone,Infrastructure development in rural areas,FALSE,5.11,7.23,Decreasing,Terrible,654823.85,FALSE
+1773,Hamlet E,44,0.79,13.16,7.72,Low risk zone,Renovation of public parks,TRUE,2907.76,3.01,Increasing,Poor,820344.62,FALSE
+8868,Countryside I,45,0.81,84.47,3.27,High risk zone,Expansion of public transportation system,FALSE,9714.66,98.25,Increasing,Poor,291696.91,FALSE
+5806,Town B,50,0.06,81.42,4.11,High risk zone,Expansion of public transportation system,FALSE,3838.75,60.03,Increasing,Excellent,905832.54,TRUE
+4461,Coastal Area J,8,0.56,78.73,5.14,Moderate risk zone,Construction of new schools,TRUE,580.46,88.67,Stable,Good,980229.88,FALSE
+6321,Town B,19,0.31,81.55,2.4,High risk zone,Renovation of public parks,TRUE,7496.56,31.06,Increasing,Excellent,845243.09,FALSE
+4643,Suburb D,40,0.58,16.35,1.18,Moderate risk zone,Construction of new schools,FALSE,5961.42,18.15,Decreasing,Excellent,311250.99,TRUE
+7870,City A,38,0.28,23.31,8.66,High risk zone,Renovation of public parks,TRUE,1390.77,9.44,Decreasing,Average,209135.14,FALSE
+9775,Rural Area G,2,0.65,1.42,0.7,Moderate risk zone,Renovation of public parks,FALSE,8082.49,54.65,Stable,Terrible,993394.21,FALSE
+5688,Urban Area H,22,0.99,17.19,9.94,Moderate risk zone,Expansion of public transportation system,TRUE,9207.86,6.08,Stable,Poor,275552.18,FALSE
+1751,Neighborhood F,49,0.96,38.65,0.21,High risk zone,Construction of new schools,FALSE,2607.86,21.31,Decreasing,Good,299200.98,FALSE
+3916,Neighborhood F,32,0.79,47.36,0.62,Moderate risk zone,Infrastructure development in rural areas,FALSE,8011.85,68.47,Decreasing,Poor,486032.66,FALSE
+8149,Village C,14,0.87,10.15,7.45,High risk zone,Renovation of public parks,FALSE,20.92,2.53,Stable,Excellent,983081.43,TRUE
+2881,Coastal Area J,44,0.75,40.25,8.98,High risk zone,Infrastructure development in rural areas,TRUE,7325.75,61.73,Stable,Average,733027.97,FALSE
+2510,Countryside I,50,0.41,11.11,5.12,High risk zone,Renovation of public parks,FALSE,9514.65,50.81,Decreasing,Terrible,267186.85,FALSE
+3220,Countryside I,17,0.53,98.38,1.14,Moderate risk zone,Renovation of public parks,FALSE,203.66,26.08,Decreasing,Average,750002.11,FALSE
+4323,Coastal Area J,41,0.71,31.1,2.57,Moderate risk zone,Expansion of public transportation system,TRUE,9600.75,22.31,Increasing,Excellent,916455.99,TRUE
+3527,Neighborhood F,41,0.97,88.97,5.76,Low risk zone,Infrastructure development in rural areas,TRUE,83.65,51.6,Stable,Poor,512481.75,FALSE
+4005,Countryside I,6,0.76,83.73,3.82,Low risk zone,Construction of new schools,TRUE,7405.8,2.38,Stable,Terrible,732935.56,TRUE
+9839,Village C,23,0.47,16.08,8.84,Moderate risk zone,Expansion of public transportation system,FALSE,42.62,18.59,Stable,Excellent,162910.58,TRUE
+1415,Village C,20,0.61,16.03,6.93,Moderate risk zone,Expansion of public transportation system,TRUE,8842.54,53.11,Increasing,Poor,714709.62,TRUE
+5408,Hamlet E,28,0.12,87.72,9.31,High risk zone,Infrastructure development in rural areas,FALSE,2246.61,73.27,Increasing,Good,72557.4,FALSE
+1550,Urban Area H,14,0.65,18.5,3.53,High risk zone,Expansion of public transportation system,FALSE,5080.95,12.3,Decreasing,Excellent,846828.7,FALSE
+5363,Coastal Area J,32,0.97,45.73,8.94,Moderate risk zone,Renovation of public parks,FALSE,1246.33,5.02,Stable,Average,659263.03,TRUE
+3747,Hamlet E,2,0.44,99.39,8.85,Low risk zone,Expansion of public transportation system,FALSE,3326.13,10.36,Stable,Good,387431.68,FALSE
+9650,Neighborhood F,4,0.79,39.08,2.87,Moderate risk zone,Construction of new schools,FALSE,2.3,83.72,Increasing,Poor,326441.25,FALSE
+3843,Countryside I,9,0.41,69.19,1.53,High risk zone,Construction of new schools,FALSE,3849.03,67.59,Stable,Poor,579403.9,TRUE
+1010,Village C,33,0.55,12.27,3.28,High risk zone,Construction of new schools,TRUE,5911.61,71.98,Stable,Average,180227.19,TRUE
+6198,Suburb D,15,0.64,91.33,0.17,Low risk zone,Construction of new schools,TRUE,2670.1,22.79,Increasing,Average,434703.3,TRUE
+6295,Neighborhood F,24,0.67,37.85,6.49,Moderate risk zone,Expansion of public transportation system,FALSE,428.54,2.38,Stable,Terrible,651879.77,FALSE
+8405,Countryside I,44,0.72,36.24,0.92,High risk zone,Expansion of public transportation system,TRUE,9720.99,47.05,Stable,Excellent,503233.25,FALSE
+2113,Rural Area G,3,0.73,23.99,7.98,High risk zone,Infrastructure development in rural areas,TRUE,5098.21,50.29,Increasing,Good,655100.17,FALSE
+8757,Neighborhood F,40,0.84,18.85,3.83,High risk zone,Infrastructure development in rural areas,TRUE,4021.49,24.9,Stable,Good,780418.37,FALSE
+9252,Coastal Area J,34,0.3,61.03,0.08,Moderate risk zone,Renovation of public parks,TRUE,7005.41,84.89,Stable,Poor,835997.02,FALSE
+8957,Hamlet E,12,0.94,51.86,0,Moderate risk zone,Infrastructure development in rural areas,TRUE,7190.21,91.13,Stable,Average,269942.2,FALSE
+4925,Neighborhood F,12,0.17,11.15,0.83,Low risk zone,Renovation of public parks,TRUE,5707.9,71.02,Decreasing,Average,953162.99,TRUE
+3779,Countryside I,27,0.7,60.21,7.63,Moderate risk zone,Expansion of public transportation system,FALSE,5273.14,51.7,Stable,Excellent,183381.08,FALSE
+3147,Suburb D,37,0.43,18.02,7.33,Moderate risk zone,Expansion of public transportation system,FALSE,2864.53,20.55,Stable,Terrible,814296.15,FALSE
+4741,Neighborhood F,28,0.03,88.56,9.46,Moderate risk zone,Infrastructure development in rural areas,FALSE,2674.62,58.13,Decreasing,Average,575502,FALSE
+7563,City A,38,0.16,35.23,1.46,Moderate risk zone,Infrastructure development in rural areas,TRUE,2437.24,24.67,Decreasing,Excellent,92187.06,FALSE
+7624,Neighborhood F,38,0.4,36.39,3.24,Moderate risk zone,Renovation of public parks,TRUE,8662.52,12.15,Decreasing,Excellent,61070.32,FALSE
+8276,Suburb D,16,0.98,60.09,4.32,Moderate risk zone,Expansion of public transportation system,TRUE,550.4,99.44,Increasing,Average,737862.58,TRUE
+8553,Urban Area H,39,0.83,66.83,5.38,Low risk zone,Renovation of public parks,FALSE,9344.36,3.89,Stable,Good,272671.69,TRUE
+5362,Village C,11,0.75,12.9,9.05,High risk zone,Construction of new schools,FALSE,1867.24,26.04,Stable,Poor,753989.21,TRUE
+9398,Village C,9,0.96,85,6.67,Low risk zone,Renovation of public parks,FALSE,7173.11,37.06,Stable,Good,620578.01,FALSE
+1502,Suburb D,32,0.2,2.79,9.31,Low risk zone,Renovation of public parks,TRUE,8777.76,99.53,Increasing,Good,496969.29,TRUE
+4264,Coastal Area J,36,0.81,14.03,5.67,High risk zone,Infrastructure development in rural areas,TRUE,3401.54,47.36,Decreasing,Good,509586.33,TRUE
+8898,Town B,22,0.95,9.79,1.21,Low risk zone,Expansion of public transportation system,FALSE,4264.03,68.85,Stable,Excellent,344698.24,FALSE
+6786,Village C,28,0.19,10.67,9.54,Low risk zone,Construction of new schools,TRUE,7937.87,81.19,Decreasing,Good,369619.84,FALSE
+1985,Coastal Area J,7,0.41,80.9,9,High risk zone,Renovation of public parks,TRUE,3704.21,97.42,Stable,Excellent,180271.34,TRUE
+1260,Urban Area H,12,0.32,11.96,7.58,High risk zone,Renovation of public parks,FALSE,2171.1,50.51,Decreasing,Good,257711.23,TRUE
+2541,Village C,49,0.5,36.72,9.86,High risk zone,Expansion of public transportation system,TRUE,4976.47,99.72,Stable,Excellent,144023.53,TRUE
+1885,Village C,21,0.54,81.07,9.75,High risk zone,Expansion of public transportation system,TRUE,7077.78,14.62,Increasing,Average,29234.34,FALSE
+7928,Town B,23,0.75,37.61,0.32,Moderate risk zone,Renovation of public parks,TRUE,7111.12,22.99,Decreasing,Excellent,801353.18,FALSE
+2001,Village C,8,0.43,18.01,6.14,High risk zone,Infrastructure development in rural areas,TRUE,8386.86,73.64,Stable,Good,575606.38,FALSE
+7675,Coastal Area J,27,0.98,52.43,1.05,High risk zone,Construction of new schools,FALSE,7928.86,2.39,Stable,Average,377690.07,TRUE
+9477,Rural Area G,23,0.3,42.88,5.77,Low risk zone,Infrastructure development in rural areas,FALSE,9423.33,97.35,Decreasing,Poor,968127.46,TRUE
+7179,Town B,20,0.65,94.2,0.44,Low risk zone,Renovation of public parks,FALSE,1460.08,72.12,Stable,Terrible,845782.14,FALSE
+6168,Suburb D,21,0.13,51.7,4.94,Moderate risk zone,Construction of new schools,FALSE,4241.78,76.14,Increasing,Terrible,863937.63,FALSE
+5995,City A,37,0.4,5.87,5.99,Moderate risk zone,Infrastructure development in rural areas,FALSE,2695.51,87.73,Increasing,Average,208141.76,TRUE
+6814,Village C,41,0.12,10.59,9,Low risk zone,Renovation of public parks,TRUE,1372.83,25.51,Increasing,Average,16697.86,TRUE
+5316,Coastal Area J,16,0.16,2.7,0.14,High risk zone,Expansion of public transportation system,FALSE,9556.18,77.2,Stable,Average,236747.45,TRUE
+6085,Rural Area G,5,0.46,46.82,3.92,Moderate risk zone,Renovation of public parks,FALSE,7561.03,75.18,Increasing,Average,689969.79,TRUE
+5236,Suburb D,33,0.48,95.64,0.55,High risk zone,Infrastructure development in rural areas,TRUE,2662.68,3.71,Increasing,Terrible,752239.44,TRUE
+5817,Countryside I,15,0.26,41.45,1.02,Moderate risk zone,Infrastructure development in rural areas,FALSE,1677.28,70.84,Decreasing,Poor,732275.89,FALSE
+6021,Hamlet E,5,0.5,48.23,0.41,Low risk zone,Renovation of public parks,FALSE,9701.69,87.13,Decreasing,Good,594544.42,FALSE
+6862,Village C,35,0.29,11.59,2.5,Low risk zone,Construction of new schools,FALSE,2567.33,65.28,Increasing,Good,807078.6,FALSE
+3353,Urban Area H,22,0.33,32.46,7.47,Low risk zone,Construction of new schools,TRUE,5378.44,36.68,Decreasing,Average,739084.17,FALSE
+9669,Hamlet E,18,0.67,69.89,5.12,Moderate risk zone,Infrastructure development in rural areas,TRUE,4301.29,2.08,Stable,Poor,945109.06,TRUE
+2360,Rural Area G,29,0.49,96.86,5.07,High risk zone,Infrastructure development in rural areas,FALSE,8652.55,67.95,Increasing,Excellent,643178.49,FALSE
+9104,Neighborhood F,19,0.89,23.83,8.33,Moderate risk zone,Renovation of public parks,TRUE,488.35,77.46,Increasing,Excellent,383240.61,FALSE
+4630,Town B,10,0.36,2.8,6.04,High risk zone,Expansion of public transportation system,TRUE,5036.45,75.6,Decreasing,Poor,926455.3,TRUE
+4762,Suburb D,3,0.34,94.72,8.6,Low risk zone,Infrastructure development in rural areas,FALSE,7564.13,14.76,Stable,Terrible,977939.5,TRUE
+6316,Urban Area H,29,0.88,97.58,7.62,Low risk zone,Expansion of public transportation system,FALSE,1394.23,9.07,Stable,Terrible,986756.46,FALSE
+2380,Countryside I,49,0.31,69.95,0.19,High risk zone,Expansion of public transportation system,FALSE,9878.82,12.13,Decreasing,Excellent,830618.91,TRUE
+9123,Town B,26,0.05,69.11,7.07,Moderate risk zone,Infrastructure development in rural areas,TRUE,1878.57,46.38,Decreasing,Poor,208689.12,TRUE
+4788,City A,30,0.41,46.75,2.2,Low risk zone,Renovation of public parks,FALSE,2342.82,61.53,Decreasing,Average,191938.46,TRUE
+1359,Neighborhood F,34,0.87,3.25,3.77,Moderate risk zone,Renovation of public parks,TRUE,1807.55,32.96,Decreasing,Good,423457.17,FALSE
+1779,Neighborhood F,38,0.2,42.86,9.07,Moderate risk zone,Infrastructure development in rural areas,TRUE,8874.69,68.96,Stable,Average,623674.25,TRUE
+7421,Coastal Area J,35,0.66,99.11,0.46,Moderate risk zone,Construction of new schools,TRUE,9945.85,18.28,Stable,Good,552487.9,TRUE
+6878,Town B,17,0.85,7.29,8.99,Low risk zone,Construction of new schools,FALSE,9720.28,71.15,Increasing,Average,934934.58,FALSE
+2216,Town B,45,0.99,32.92,7.69,High risk zone,Renovation of public parks,FALSE,948.16,30.02,Decreasing,Excellent,64298,TRUE
+7010,Village C,21,0.19,88.92,2.79,High risk zone,Construction of new schools,TRUE,8925,85.07,Increasing,Poor,136801.8,FALSE
+2499,Village C,3,0.76,80.33,1.97,Low risk zone,Infrastructure development in rural areas,TRUE,1861.41,25.13,Increasing,Excellent,481335.41,FALSE
+9969,City A,31,0.17,57.92,8.13,Low risk zone,Infrastructure development in rural areas,FALSE,5907.92,10.65,Decreasing,Poor,310873.54,FALSE
+4887,Village C,13,0.04,97.01,9.16,Moderate risk zone,Expansion of public transportation system,FALSE,6380.49,60.26,Stable,Excellent,296049.02,TRUE
+1024,Neighborhood F,44,0.38,5.39,9.18,Moderate risk zone,Infrastructure development in rural areas,TRUE,6878.46,26.58,Increasing,Average,347472.33,FALSE
+9034,Neighborhood F,30,0.02,80.27,3.98,High risk zone,Expansion of public transportation system,FALSE,565.73,1.47,Increasing,Excellent,452121.65,FALSE
+2831,Village C,7,0.77,20.26,8.35,High risk zone,Expansion of public transportation system,FALSE,7753.89,43.45,Decreasing,Good,974687.86,FALSE
+6283,Rural Area G,22,0.51,56.99,2.73,High risk zone,Renovation of public parks,FALSE,9385.45,35.27,Decreasing,Poor,986523.16,TRUE
+4017,Urban Area H,50,0.53,7.43,7.63,High risk zone,Infrastructure development in rural areas,TRUE,4313.71,87.24,Stable,Terrible,479642.87,TRUE
+9993,Suburb D,34,0.26,82.2,9.96,Moderate risk zone,Expansion of public transportation system,TRUE,4901.86,51.35,Increasing,Excellent,737052.62,TRUE
+8897,Suburb D,30,0.95,91.73,0.76,Moderate risk zone,Construction of new schools,FALSE,9432.75,15.35,Stable,Poor,959948.56,TRUE
+5904,Urban Area H,18,0,45.32,6.11,High risk zone,Construction of new schools,TRUE,2992.37,42.23,Stable,Excellent,473529.21,FALSE
+6837,Neighborhood F,45,0.34,26.44,1,Moderate risk zone,Renovation of public parks,TRUE,209.57,98.36,Increasing,Good,875399.34,FALSE
+6796,Rural Area G,3,0.79,38.43,0.76,High risk zone,Infrastructure development in rural areas,FALSE,2833.75,29.87,Increasing,Terrible,190260.11,FALSE
+9475,Town B,44,0.12,49.72,2.34,High risk zone,Infrastructure development in rural areas,FALSE,2623.92,70.23,Increasing,Average,609835.95,FALSE
+3435,Suburb D,37,0.29,85.56,4.3,Moderate risk zone,Expansion of public transportation system,TRUE,7862.25,35.78,Stable,Average,988615.12,TRUE
+5600,Rural Area G,17,0.97,95.71,6.26,Moderate risk zone,Infrastructure development in rural areas,TRUE,7141.7,45.49,Stable,Good,94218.88,TRUE
+1967,Town B,5,0.73,37.94,9.85,Moderate risk zone,Expansion of public transportation system,TRUE,9309.31,15.6,Stable,Average,371459.96,TRUE
+5516,Coastal Area J,44,0.68,18.38,6.33,Moderate risk zone,Infrastructure development in rural areas,FALSE,4875.99,26.59,Stable,Excellent,168561.58,FALSE
+9546,Rural Area G,29,0.45,52.68,4.96,Moderate risk zone,Expansion of public transportation system,TRUE,830,10.32,Decreasing,Excellent,193536.17,FALSE
+1021,Neighborhood F,11,0.47,81.95,9.69,Moderate risk zone,Renovation of public parks,FALSE,4219.6,68.73,Increasing,Good,856362.97,TRUE
+7839,Neighborhood F,31,0.29,69.49,1.06,High risk zone,Expansion of public transportation system,FALSE,1669.85,78.44,Stable,Terrible,672943.87,TRUE
+3091,Urban Area H,14,0.91,96.29,4.36,Low risk zone,Infrastructure development in rural areas,FALSE,587.1,3.06,Increasing,Average,633621.82,FALSE
+5809,Village C,22,0.43,55.38,8.14,High risk zone,Renovation of public parks,TRUE,7479.62,19.45,Decreasing,Good,888023.11,FALSE
+7529,Village C,23,0.73,24.26,8.47,Moderate risk zone,Expansion of public transportation system,TRUE,5334.79,89.45,Stable,Average,921569.75,FALSE
+2451,Urban Area H,20,0.34,70.18,9.5,Moderate risk zone,Infrastructure development in rural areas,TRUE,9328.42,57.28,Increasing,Terrible,770397.48,TRUE
+6404,Urban Area H,46,0.9,45.43,9.4,Moderate risk zone,Infrastructure development in rural areas,TRUE,169.46,89.98,Decreasing,Terrible,146700.71,FALSE
+1753,Urban Area H,41,0.03,18.1,7.31,Low risk zone,Expansion of public transportation system,TRUE,5275.32,32.2,Stable,Poor,674260.33,FALSE
+8946,Countryside I,32,0.77,96.26,0.65,High risk zone,Renovation of public parks,FALSE,2208.98,51.08,Stable,Good,945792.75,FALSE
+3852,Town B,49,0.61,37.61,5.66,High risk zone,Expansion of public transportation system,FALSE,6257.64,55.53,Increasing,Good,467508.75,TRUE
+6755,Neighborhood F,12,0.75,71.75,2.99,Moderate risk zone,Renovation of public parks,FALSE,2692.71,92.61,Decreasing,Poor,847562.38,FALSE
+5624,Urban Area H,41,0.65,8.77,8.26,Low risk zone,Renovation of public parks,FALSE,3937.71,95.32,Increasing,Terrible,607678.69,TRUE
+3280,Village C,10,0.02,73.35,0.18,High risk zone,Renovation of public parks,TRUE,3368.85,91.71,Stable,Poor,844191.93,TRUE
+3199,Village C,37,0.49,59.88,3.34,Moderate risk zone,Infrastructure development in rural areas,TRUE,6305.41,90.89,Increasing,Excellent,58746.86,TRUE
+9529,Town B,25,0.44,26.16,8.55,Moderate risk zone,Infrastructure development in rural areas,FALSE,4374.05,76.87,Decreasing,Good,832095.4,TRUE
+8723,Town B,46,0.94,58.72,2.63,High risk zone,Renovation of public parks,FALSE,4524.23,1.14,Decreasing,Excellent,920737.26,FALSE
+6849,Village C,23,0.08,75.11,6.22,High risk zone,Construction of new schools,FALSE,8672.17,68.02,Decreasing,Good,906464.53,TRUE
+3117,Hamlet E,21,0.38,57,5.59,Moderate risk zone,Construction of new schools,TRUE,8074.83,55.7,Increasing,Good,498580.18,TRUE
+8623,Town B,41,0.49,21.45,3.67,High risk zone,Expansion of public transportation system,FALSE,4019.74,50.14,Stable,Poor,44176.21,TRUE
+8584,Countryside I,32,0.08,14.87,1.96,Moderate risk zone,Renovation of public parks,TRUE,8165.74,45.54,Increasing,Average,190208.27,FALSE
+8240,Village C,33,0.41,67.77,3.09,Low risk zone,Renovation of public parks,TRUE,4254.55,29.66,Stable,Good,559315.02,TRUE
+8856,Hamlet E,12,0.83,98.33,9.91,Moderate risk zone,Renovation of public parks,FALSE,479.32,20.73,Decreasing,Terrible,233796.97,FALSE
+3561,Suburb D,29,0.79,51.83,3.13,Low risk zone,Renovation of public parks,FALSE,4830.7,97.43,Stable,Terrible,745148.64,FALSE
+5198,Town B,42,0.22,5.84,6.56,High risk zone,Renovation of public parks,FALSE,8056.68,5.45,Increasing,Average,219322.32,TRUE
+5237,City A,17,0.45,48.24,8.65,Moderate risk zone,Renovation of public parks,FALSE,4908.5,39.48,Stable,Excellent,10594.77,FALSE
+6778,Town B,12,0.15,82.27,0.41,High risk zone,Renovation of public parks,FALSE,6953.33,56.11,Increasing,Poor,55187.96,FALSE
+6929,Neighborhood F,17,0.71,82.41,5.91,High risk zone,Expansion of public transportation system,FALSE,2126.81,21.73,Stable,Good,230286.82,FALSE
+7993,Coastal Area J,19,0.31,60.1,1.47,High risk zone,Renovation of public parks,TRUE,2608.86,28.35,Decreasing,Average,807626.56,TRUE
+4042,Town B,49,0.87,15.63,4.25,Moderate risk zone,Expansion of public transportation system,TRUE,3017.94,98.43,Decreasing,Poor,852795.85,FALSE
+3657,Town B,41,0.62,10.43,9.3,Moderate risk zone,Infrastructure development in rural areas,FALSE,3125.62,61.36,Stable,Good,430178.08,TRUE
+1450,Town B,19,0.37,67.89,4.67,Moderate risk zone,Infrastructure development in rural areas,FALSE,9297.16,22.37,Decreasing,Poor,349738.43,FALSE
+7596,Countryside I,12,0.01,92.56,4.31,High risk zone,Renovation of public parks,TRUE,29.51,62.27,Stable,Good,221840.78,FALSE
+2768,Hamlet E,12,0.7,43.8,7.58,Low risk zone,Renovation of public parks,TRUE,9319.14,22.75,Decreasing,Poor,435450.92,FALSE
+5771,Village C,45,0.15,56.9,6.76,High risk zone,Expansion of public transportation system,FALSE,7714.24,55.25,Increasing,Average,229148.78,FALSE
+3368,Rural Area G,15,0.19,52.75,1.32,High risk zone,Expansion of public transportation system,FALSE,6152.54,8.82,Increasing,Terrible,633462.49,TRUE
+6766,Hamlet E,22,0.44,45.76,8.93,Low risk zone,Infrastructure development in rural areas,FALSE,9209.94,54.07,Stable,Good,60273.58,TRUE
+3372,Neighborhood F,7,0.55,76.74,6.85,High risk zone,Renovation of public parks,FALSE,3314.22,81.55,Decreasing,Excellent,796103.06,TRUE
+7300,Town B,37,0.52,12.82,8.74,Moderate risk zone,Expansion of public transportation system,TRUE,1194.21,20.55,Decreasing,Good,155441.2,FALSE
+3225,Coastal Area J,48,0.17,23.59,5.73,Moderate risk zone,Construction of new schools,FALSE,2360.28,56.76,Stable,Average,777158.21,TRUE
+4601,Urban Area H,5,0.8,94.25,2.4,High risk zone,Infrastructure development in rural areas,FALSE,1998.46,19.09,Increasing,Terrible,864988.14,FALSE
+2873,Town B,40,0.61,67.23,4.82,Moderate risk zone,Expansion of public transportation system,FALSE,4226.56,25.45,Decreasing,Terrible,427772,TRUE
+6546,Hamlet E,28,0.63,63.83,0.44,Moderate risk zone,Infrastructure development in rural areas,TRUE,5028.93,56.17,Decreasing,Excellent,20183.72,FALSE
+9370,Countryside I,4,0.59,90.8,7.51,High risk zone,Renovation of public parks,FALSE,7535.86,7.69,Stable,Good,306990.36,TRUE
+6460,Coastal Area J,34,0.51,46.62,5.5,Low risk zone,Expansion of public transportation system,TRUE,4472.52,63.4,Stable,Poor,872165.99,TRUE
+8912,City A,16,0.1,74.55,9.38,High risk zone,Expansion of public transportation system,FALSE,7926.49,63.75,Increasing,Good,983549.73,TRUE
+2094,Village C,16,0.81,44.89,5.23,High risk zone,Renovation of public parks,TRUE,7567.8,81.72,Decreasing,Poor,941171.17,FALSE
+4473,Village C,6,0.62,12.22,8.5,Moderate risk zone,Infrastructure development in rural areas,FALSE,5480.04,42.14,Decreasing,Terrible,459726.53,TRUE
+7103,Hamlet E,2,0.57,59.08,5.49,High risk zone,Infrastructure development in rural areas,FALSE,4703.61,13.19,Decreasing,Excellent,894958.49,FALSE
+5172,Coastal Area J,24,0.85,83.89,5.53,Moderate risk zone,Construction of new schools,TRUE,9198.47,85.72,Stable,Good,331197.05,TRUE
+9887,Hamlet E,28,1,93.91,8.75,High risk zone,Infrastructure development in rural areas,TRUE,8874.09,1.29,Increasing,Poor,15748.97,TRUE
+9609,Suburb D,20,0.48,57.41,3.19,High risk zone,Renovation of public parks,TRUE,6658.24,31.17,Increasing,Terrible,134170.84,TRUE
+9360,Village C,12,0.38,44.1,9.68,Low risk zone,Expansion of public transportation system,TRUE,3426.87,17.66,Decreasing,Terrible,474321.22,TRUE
+4261,Rural Area G,43,0.02,79.53,3.72,High risk zone,Renovation of public parks,FALSE,5785.68,13.15,Stable,Good,678583.33,FALSE
+2193,Coastal Area J,31,0.65,89.87,7.67,Low risk zone,Construction of new schools,TRUE,8055.56,17.34,Decreasing,Average,244053.12,FALSE
+8097,Coastal Area J,12,0.64,12.79,2.68,High risk zone,Construction of new schools,TRUE,4914.27,37.25,Stable,Good,571580.73,TRUE
+8377,Neighborhood F,37,0.71,7.61,6.69,High risk zone,Infrastructure development in rural areas,FALSE,486.42,48.94,Decreasing,Good,188783.79,TRUE
+7244,Town B,50,0.36,3.83,6.9,High risk zone,Expansion of public transportation system,TRUE,7603.07,35.2,Increasing,Poor,764602.21,TRUE
+6586,Coastal Area J,45,0.17,8.43,6.54,High risk zone,Construction of new schools,TRUE,8483.59,74.64,Stable,Poor,289971.77,FALSE
+8160,Town B,29,0.82,3.37,3.93,Moderate risk zone,Infrastructure development in rural areas,TRUE,7916.96,1.03,Increasing,Excellent,333506.88,FALSE
+7811,Urban Area H,38,0.28,3.61,5.76,Moderate risk zone,Expansion of public transportation system,FALSE,5361.23,69.87,Decreasing,Poor,46403.37,FALSE
+7360,Hamlet E,35,0.05,84.24,5.14,Low risk zone,Renovation of public parks,FALSE,5231.26,79.78,Increasing,Terrible,877640.36,FALSE
+5196,Neighborhood F,41,0.77,30.04,0.82,Low risk zone,Infrastructure development in rural areas,FALSE,5162.54,61.06,Stable,Average,448850.2,TRUE
+9002,Hamlet E,38,0.78,67.68,9.7,Moderate risk zone,Construction of new schools,TRUE,2861.22,77.28,Increasing,Average,377905.01,FALSE
+2549,Neighborhood F,28,0.87,61.07,0.46,High risk zone,Infrastructure development in rural areas,TRUE,8804.91,50.5,Stable,Terrible,566448.52,FALSE
+2804,Town B,2,0.68,27.05,2.01,Moderate risk zone,Infrastructure development in rural areas,TRUE,199.8,71.5,Increasing,Good,16578.77,FALSE
+7533,Rural Area G,41,1,10.72,7.55,Low risk zone,Construction of new schools,TRUE,6825.37,38.67,Increasing,Excellent,263439.14,FALSE
+5388,Village C,33,0.16,65.79,4.41,Moderate risk zone,Renovation of public parks,FALSE,9757.66,4.54,Decreasing,Terrible,674003.67,TRUE
+1165,Village C,44,0.25,82.66,2.75,Low risk zone,Infrastructure development in rural areas,FALSE,3512.06,47.4,Increasing,Good,669576.9,FALSE
+4036,Village C,22,0.02,41,5.34,Low risk zone,Construction of new schools,FALSE,7642.19,64.95,Increasing,Poor,236819.24,TRUE
+2530,Town B,2,0.83,7.01,6.28,Moderate risk zone,Expansion of public transportation system,FALSE,4648.34,55.61,Stable,Excellent,483901.87,TRUE
+8236,Suburb D,14,0.68,22.43,1.53,Low risk zone,Construction of new schools,FALSE,8352.21,65.65,Increasing,Average,227109.72,FALSE
+9948,Coastal Area J,29,0.18,42.66,5.21,Low risk zone,Renovation of public parks,FALSE,159.96,61.74,Stable,Terrible,50770.11,FALSE
+9969,Hamlet E,19,0.98,30.39,1.98,Low risk zone,Infrastructure development in rural areas,TRUE,8727.66,84.07,Increasing,Good,647861.47,TRUE
+9353,Coastal Area J,32,0.63,22.94,3.06,High risk zone,Infrastructure development in rural areas,FALSE,5136.33,24.78,Stable,Good,654700.76,TRUE
+8705,Suburb D,12,0.29,0.12,2.25,Moderate risk zone,Renovation of public parks,TRUE,3107.03,18.67,Decreasing,Excellent,389958.72,FALSE
+8091,Countryside I,3,0.51,44.28,5.34,Moderate risk zone,Renovation of public parks,TRUE,8073.88,35.46,Decreasing,Terrible,969278.67,TRUE
+2152,Village C,15,0.28,66.94,8.55,Moderate risk zone,Renovation of public parks,FALSE,4738.15,32.03,Stable,Excellent,118606.03,TRUE
+9511,Neighborhood F,4,0.41,94.05,8.55,High risk zone,Infrastructure development in rural areas,FALSE,5055.16,20.01,Decreasing,Average,754219.73,TRUE
+5850,Hamlet E,31,0.32,19.13,9.02,Low risk zone,Renovation of public parks,TRUE,3315.12,25.02,Decreasing,Poor,769564.95,TRUE
+6439,Urban Area H,47,0.55,74.68,2.02,High risk zone,Expansion of public transportation system,FALSE,3542.48,74.9,Stable,Good,937785.25,FALSE
+6822,Rural Area G,50,0.6,92.35,8.62,Moderate risk zone,Construction of new schools,FALSE,5580.38,99.7,Stable,Terrible,336565.6,FALSE
+7358,Neighborhood F,29,0.64,84.96,3.51,Low risk zone,Infrastructure development in rural areas,TRUE,1070.68,82.7,Decreasing,Good,623661.15,TRUE
+4617,Town B,23,0.82,66.57,0.09,High risk zone,Expansion of public transportation system,TRUE,5135.93,50.84,Stable,Excellent,797079.74,TRUE
+6708,Countryside I,3,0.75,9.45,7.51,Moderate risk zone,Infrastructure development in rural areas,TRUE,9288.74,19.27,Stable,Poor,407942.65,TRUE
+8569,Suburb D,3,0.56,21.14,7.05,Moderate risk zone,Renovation of public parks,TRUE,4266.41,27.9,Decreasing,Terrible,139955.65,TRUE
+3336,Countryside I,48,0.39,99.55,2.11,Low risk zone,Construction of new schools,FALSE,1779.72,25.67,Decreasing,Average,524956.79,TRUE
+6365,Neighborhood F,33,0.4,9.27,5.27,High risk zone,Expansion of public transportation system,TRUE,6405.2,62.49,Increasing,Good,982502.81,TRUE
+2825,Town B,37,0.48,76.84,5.2,Low risk zone,Construction of new schools,FALSE,7154.97,5.41,Decreasing,Terrible,869771.09,TRUE
+8731,City A,39,0.99,82.62,4.01,High risk zone,Renovation of public parks,FALSE,2431.64,76.93,Increasing,Good,995343.59,FALSE
+8901,Village C,29,0.98,9.8,4.03,Moderate risk zone,Renovation of public parks,FALSE,6218.23,78.78,Decreasing,Excellent,604494.17,FALSE
+5397,Town B,36,0.64,9.09,1.93,Low risk zone,Construction of new schools,FALSE,5477.22,62.27,Stable,Good,553486.74,FALSE
+9148,Urban Area H,49,0.31,17.08,8.62,Low risk zone,Expansion of public transportation system,TRUE,1230.53,35.13,Decreasing,Excellent,827602.65,FALSE
+2793,Countryside I,49,0.57,43.59,5.9,Moderate risk zone,Infrastructure development in rural areas,FALSE,5605.77,10.28,Increasing,Terrible,316449.39,TRUE
+1938,Countryside I,30,0,84.24,3.63,Low risk zone,Expansion of public transportation system,FALSE,7514.52,89.05,Stable,Poor,507739.18,FALSE
+3949,Hamlet E,23,0.02,91.16,7.92,High risk zone,Infrastructure development in rural areas,TRUE,3777.48,26.78,Decreasing,Excellent,173985.09,FALSE
+8431,Neighborhood F,3,0.16,13.43,4.64,Moderate risk zone,Construction of new schools,FALSE,7614.24,2.4,Decreasing,Excellent,706903.48,FALSE
+4744,Hamlet E,28,0.32,45.78,2.89,Low risk zone,Renovation of public parks,FALSE,820.77,97.57,Increasing,Excellent,727204.14,FALSE
+9524,Hamlet E,23,0.15,40.05,2.85,Moderate risk zone,Construction of new schools,FALSE,2009.97,19.58,Increasing,Terrible,693995.81,TRUE
+1344,Village C,11,0.82,86.91,0.5,Moderate risk zone,Renovation of public parks,FALSE,5243.03,23,Decreasing,Average,50848.9,FALSE
+5655,Town B,31,0.58,14.86,8.42,Moderate risk zone,Renovation of public parks,TRUE,556.81,64.01,Stable,Excellent,68682.04,FALSE
+9235,Town B,19,0.63,39.62,10,Low risk zone,Renovation of public parks,FALSE,3681.2,87.29,Stable,Good,393691.28,TRUE
+9333,Coastal Area J,17,0.54,12.45,1.33,Low risk zone,Renovation of public parks,TRUE,8244.33,9.63,Stable,Good,256149.78,TRUE
+7823,Rural Area G,50,0.86,66.17,0.14,Moderate risk zone,Construction of new schools,TRUE,5674.3,81.98,Decreasing,Good,996820.5,TRUE
+1924,City A,1,0.81,72.17,5.41,Low risk zone,Expansion of public transportation system,TRUE,4482.83,96.55,Decreasing,Excellent,534231.56,FALSE
+7439,Countryside I,34,0.92,67.13,4.82,Moderate risk zone,Renovation of public parks,TRUE,3649.73,50.95,Decreasing,Average,366166.43,FALSE
+9828,Urban Area H,29,0.75,74.51,1.96,High risk zone,Expansion of public transportation system,TRUE,9314.43,94.53,Decreasing,Terrible,855775.07,TRUE
+5332,Neighborhood F,10,0.47,7.06,2.69,Low risk zone,Infrastructure development in rural areas,FALSE,5454.46,95.53,Increasing,Poor,366293.43,TRUE
+8113,Town B,11,0.49,89.89,7.33,Low risk zone,Expansion of public transportation system,FALSE,4862.88,67.87,Stable,Good,17860.95,FALSE
+1742,Countryside I,35,0.02,48.88,0.77,Low risk zone,Infrastructure development in rural areas,TRUE,6287.73,98.92,Decreasing,Poor,313787.14,FALSE
+2081,City A,31,0.68,80.17,5.36,Low risk zone,Infrastructure development in rural areas,FALSE,1670.79,23.37,Decreasing,Terrible,860602.34,TRUE
+1952,Town B,11,0.22,20.68,4.49,Low risk zone,Infrastructure development in rural areas,FALSE,1609.91,10.12,Stable,Average,129393.78,TRUE
+2559,Neighborhood F,24,0.34,7.63,6.6,Low risk zone,Construction of new schools,FALSE,3378.65,39.88,Increasing,Good,409149.93,TRUE
+6242,Hamlet E,37,0.65,48.51,3.09,Moderate risk zone,Infrastructure development in rural areas,FALSE,6745.74,42.5,Stable,Average,727929.12,FALSE
+1928,Town B,13,0.63,22.2,6.02,Low risk zone,Renovation of public parks,FALSE,6386.09,16.66,Stable,Excellent,308686.37,FALSE
+7250,City A,39,0.65,3.23,4.46,High risk zone,Infrastructure development in rural areas,TRUE,2776.99,60.03,Increasing,Average,937181.35,TRUE
+1324,City A,46,0.75,84.54,9.09,High risk zone,Renovation of public parks,TRUE,1346.52,50.07,Stable,Excellent,797436.35,TRUE
+5133,Countryside I,46,0.41,74.19,8.9,Moderate risk zone,Expansion of public transportation system,FALSE,4845.37,53.44,Stable,Terrible,260324.34,FALSE
+8408,Suburb D,34,0.63,25.26,9.67,High risk zone,Expansion of public transportation system,TRUE,4071.81,92.31,Decreasing,Poor,626049.71,TRUE
+3066,Countryside I,12,1,80.38,9.67,High risk zone,Infrastructure development in rural areas,TRUE,7272.21,14.36,Decreasing,Excellent,715510.28,FALSE
+1600,Suburb D,48,0.03,35.86,8.88,Low risk zone,Expansion of public transportation system,FALSE,9247.11,60.38,Stable,Excellent,308198.09,FALSE
+6658,Urban Area H,25,0.75,47.61,3.89,Low risk zone,Construction of new schools,TRUE,3693.7,38.31,Decreasing,Terrible,999270.03,FALSE
+7873,Rural Area G,44,0.42,31.93,1.15,Low risk zone,Expansion of public transportation system,FALSE,1069.8,2.14,Increasing,Poor,253116.56,FALSE
+8961,Town B,17,0.09,96.06,0.11,Moderate risk zone,Expansion of public transportation system,TRUE,6411.78,94.08,Increasing,Poor,253806.5,TRUE
+9092,Suburb D,37,0.17,53.04,6.99,Low risk zone,Construction of new schools,FALSE,6122.15,8.35,Stable,Average,396474.29,FALSE
+1741,Village C,40,0.7,70.85,7.94,Moderate risk zone,Renovation of public parks,TRUE,4740.46,19.64,Increasing,Excellent,298686.08,FALSE
+6424,Suburb D,22,0.37,83.17,9.15,Moderate risk zone,Renovation of public parks,FALSE,1102.43,79.27,Decreasing,Average,196550.11,FALSE
+1029,Town B,6,0.25,67.94,0.65,Moderate risk zone,Infrastructure development in rural areas,FALSE,1356.27,10.55,Stable,Good,713181.28,FALSE
+8978,Village C,25,0.74,32.71,5.94,Low risk zone,Renovation of public parks,TRUE,7110.58,58.75,Decreasing,Good,349883.37,FALSE
+7830,Urban Area H,10,0.61,36.11,3.67,Low risk zone,Renovation of public parks,FALSE,9705.69,98.38,Increasing,Excellent,919605.99,TRUE
+4022,Coastal Area J,48,0.17,0.43,1.31,Low risk zone,Infrastructure development in rural areas,TRUE,7682.46,23.13,Increasing,Terrible,45176.26,TRUE
+3418,Countryside I,10,0.79,72.89,4.41,Moderate risk zone,Infrastructure development in rural areas,TRUE,5684.93,92.25,Stable,Poor,431926.61,TRUE
+9786,Town B,46,0.89,93.44,9.27,High risk zone,Expansion of public transportation system,FALSE,4994.87,31.98,Stable,Good,966370.73,TRUE
+1783,Suburb D,26,0.52,77.76,0.89,Low risk zone,Expansion of public transportation system,TRUE,3790.45,99.4,Decreasing,Poor,790932.22,TRUE
+7486,Hamlet E,30,0.64,33.61,7.64,Moderate risk zone,Expansion of public transportation system,TRUE,8142.46,37.32,Stable,Poor,56841.96,FALSE
+9480,City A,3,0.09,94.81,3.2,Moderate risk zone,Expansion of public transportation system,FALSE,6301.97,97.46,Decreasing,Poor,608969.42,FALSE
+8256,Hamlet E,13,0.19,9.88,2.2,High risk zone,Infrastructure development in rural areas,FALSE,1983.07,32.58,Stable,Poor,51395.86,FALSE
+3358,Village C,45,0.8,99.32,2.08,Low risk zone,Infrastructure development in rural areas,FALSE,8368.15,41.15,Stable,Terrible,576992.81,FALSE
+3852,Suburb D,38,0.89,89.42,8.08,Low risk zone,Expansion of public transportation system,TRUE,4650.01,10.48,Stable,Good,341314.84,TRUE
+5036,Coastal Area J,14,0.55,5.57,5.69,Moderate risk zone,Construction of new schools,TRUE,4468.47,75.96,Increasing,Excellent,420378.71,TRUE
+5181,Village C,48,0.53,26.93,6.63,Low risk zone,Construction of new schools,FALSE,9440.16,66.94,Decreasing,Average,266909.75,TRUE
+2452,Village C,29,0.8,3.3,5.62,High risk zone,Expansion of public transportation system,TRUE,7776.28,43.85,Stable,Terrible,898636.04,TRUE
+4073,Rural Area G,18,0.48,95.57,4.82,Moderate risk zone,Renovation of public parks,FALSE,6303.81,1.85,Decreasing,Terrible,864005.85,TRUE
+4432,Coastal Area J,49,0.75,32.84,6.11,Low risk zone,Renovation of public parks,FALSE,3269.86,84.83,Stable,Excellent,933516.94,TRUE
+5672,Town B,44,0.45,45.83,9.71,Low risk zone,Construction of new schools,TRUE,6423.94,12.36,Stable,Terrible,796327.69,FALSE
+4525,Countryside I,20,0.28,53.64,0.9,Moderate risk zone,Expansion of public transportation system,TRUE,9696.16,55.58,Stable,Average,175712.02,FALSE
+9759,Suburb D,14,0.28,38.92,6.93,High risk zone,Construction of new schools,FALSE,8019.2,77.36,Increasing,Good,994837.22,FALSE
+5087,Urban Area H,30,0.31,46.75,7.44,Moderate risk zone,Expansion of public transportation system,FALSE,6456.42,72.96,Stable,Terrible,132728.4,FALSE
+3647,Rural Area G,22,0.8,70.29,6.25,High risk zone,Construction of new schools,TRUE,4927.83,11.41,Increasing,Terrible,318616.74,TRUE
+8170,Coastal Area J,43,0.81,46.4,5.57,High risk zone,Infrastructure development in rural areas,TRUE,6190.78,96.62,Decreasing,Poor,578304.85,FALSE
+2815,Neighborhood F,39,0.39,16.32,1.97,Moderate risk zone,Construction of new schools,FALSE,591.12,74.81,Stable,Good,891954.43,FALSE
+1602,Town B,18,0.66,39.63,4.07,Moderate risk zone,Expansion of public transportation system,TRUE,839.09,84.49,Decreasing,Good,646226.33,TRUE
+2666,City A,22,0.34,57.1,4.86,High risk zone,Expansion of public transportation system,FALSE,4144,14.45,Increasing,Average,484035.91,FALSE
+5923,Urban Area H,8,0.08,96.34,1.85,High risk zone,Expansion of public transportation system,TRUE,9729.54,31.37,Increasing,Poor,60986.85,FALSE
+7605,City A,34,0.38,71.01,8.19,High risk zone,Infrastructure development in rural areas,FALSE,2291.34,19.21,Decreasing,Good,489545.95,FALSE
+8405,Countryside I,21,0.54,56.48,6.38,Low risk zone,Infrastructure development in rural areas,FALSE,4030.98,56.09,Decreasing,Excellent,919310.53,FALSE
+1161,Rural Area G,15,0.12,12.74,5.11,Low risk zone,Infrastructure development in rural areas,FALSE,2046.88,67.32,Stable,Good,656767.28,TRUE
+9088,Village C,45,0.97,58.55,0.67,High risk zone,Expansion of public transportation system,FALSE,6954.49,48.5,Decreasing,Poor,297965.75,TRUE
+3667,Neighborhood F,31,0.17,92.83,6.43,Low risk zone,Infrastructure development in rural areas,FALSE,4172.59,52.76,Stable,Average,246519.06,TRUE
+9627,Neighborhood F,40,0.23,96.01,2.58,Low risk zone,Infrastructure development in rural areas,FALSE,7032.94,34.6,Stable,Poor,411442.93,FALSE
+8962,Suburb D,30,0.2,36.49,6,Low risk zone,Infrastructure development in rural areas,TRUE,7835.52,32.02,Increasing,Excellent,279162.3,TRUE
+6568,Urban Area H,22,0.67,77.44,4.27,Moderate risk zone,Infrastructure development in rural areas,FALSE,1606.51,50.88,Decreasing,Good,105660.38,FALSE
+8242,Neighborhood F,23,0.47,55.18,8.39,Low risk zone,Renovation of public parks,FALSE,2932.92,43.99,Stable,Poor,415794.17,TRUE
+5195,Neighborhood F,41,0.56,84.1,4.12,Low risk zone,Construction of new schools,FALSE,3879.35,70.28,Decreasing,Good,764430.37,FALSE
+2637,Countryside I,10,0.34,41.76,2.21,Moderate risk zone,Construction of new schools,FALSE,6918.53,15.37,Decreasing,Poor,297842.44,FALSE
+2963,Suburb D,23,0.26,44.21,6.52,Moderate risk zone,Infrastructure development in rural areas,TRUE,5179.12,35.75,Stable,Good,738327.8,FALSE
+2322,Countryside I,22,0.94,35.27,8.07,Moderate risk zone,Expansion of public transportation system,FALSE,5408.15,36.51,Stable,Poor,130914.39,TRUE
+4941,Town B,14,0.49,78.18,6.66,Low risk zone,Construction of new schools,TRUE,9641.62,95.64,Increasing,Poor,516181.62,FALSE
+6878,City A,13,0.65,12.16,4.21,Low risk zone,Infrastructure development in rural areas,FALSE,5285.85,83.43,Decreasing,Poor,947246.31,TRUE
+2765,Suburb D,49,0.86,34.97,4.38,Moderate risk zone,Construction of new schools,TRUE,7202.53,13.17,Increasing,Poor,259614.34,TRUE
+2692,City A,14,0.33,62.74,2.07,Moderate risk zone,Infrastructure development in rural areas,FALSE,6006.14,96.59,Increasing,Average,942518.21,FALSE
+5535,Neighborhood F,30,0.17,50.01,8.11,Moderate risk zone,Expansion of public transportation system,FALSE,4570.68,27.6,Increasing,Excellent,461458.49,FALSE
+4857,Rural Area G,13,0.38,17.49,6.52,High risk zone,Renovation of public parks,TRUE,7322.3,30.58,Stable,Average,489386.97,FALSE
+7011,Countryside I,34,0.52,94.18,7.75,Low risk zone,Expansion of public transportation system,FALSE,3060.17,19.18,Stable,Good,813221.42,TRUE
+3660,Suburb D,9,0.81,31.47,7.26,High risk zone,Construction of new schools,TRUE,2844.22,18.52,Decreasing,Average,26203.89,FALSE
+1160,City A,3,0.5,29.62,6.71,Moderate risk zone,Infrastructure development in rural areas,TRUE,7005.38,63.6,Decreasing,Poor,725632.89,FALSE
+1246,Urban Area H,6,0.17,67.12,8.26,Low risk zone,Infrastructure development in rural areas,TRUE,1124.84,47.1,Increasing,Average,750776.63,TRUE
+5303,Countryside I,43,0.16,79.38,0.01,Low risk zone,Construction of new schools,FALSE,397.22,90.3,Decreasing,Poor,503141.99,TRUE
+4302,Neighborhood F,36,0.04,1.4,0.96,Moderate risk zone,Renovation of public parks,TRUE,1649.49,25.26,Increasing,Excellent,992842.59,FALSE
+9321,Countryside I,37,0.67,62.35,2.9,Moderate risk zone,Construction of new schools,FALSE,8437.2,51.02,Decreasing,Excellent,464463.5,TRUE
+8886,Neighborhood F,8,0.81,8.18,1.74,Low risk zone,Renovation of public parks,FALSE,9221.44,99.65,Decreasing,Poor,430218.43,FALSE
+4376,City A,11,0.7,32.91,4.51,Moderate risk zone,Expansion of public transportation system,TRUE,402.03,6.82,Decreasing,Terrible,504899.4,TRUE
+9206,Countryside I,28,0.79,56.76,8.8,Moderate risk zone,Infrastructure development in rural areas,FALSE,7825.17,24.61,Increasing,Average,762405.6,FALSE
+5557,City A,25,0.17,72.91,1.06,Moderate risk zone,Infrastructure development in rural areas,TRUE,9221.41,66.15,Decreasing,Good,839960.62,TRUE
+1963,Neighborhood F,13,0.04,1.27,9.44,Low risk zone,Expansion of public transportation system,TRUE,7739.28,40.34,Stable,Average,840183.08,FALSE
+8212,Suburb D,4,0.16,39.14,9.95,High risk zone,Renovation of public parks,FALSE,869.07,66.67,Decreasing,Excellent,578459.49,FALSE
+9150,Coastal Area J,33,0.3,41.24,3.82,High risk zone,Renovation of public parks,TRUE,386.93,22.12,Stable,Average,530244.6,TRUE
+5714,Countryside I,44,0.85,97.38,0.14,High risk zone,Renovation of public parks,FALSE,14.67,39.15,Stable,Excellent,821079.25,FALSE
+1276,Suburb D,43,0.89,36.1,9.17,Low risk zone,Expansion of public transportation system,FALSE,2134.99,23.9,Increasing,Good,30857.87,FALSE
+4751,Neighborhood F,21,0.79,17.98,7.04,High risk zone,Infrastructure development in rural areas,FALSE,5949.06,47.96,Increasing,Average,579791.46,TRUE
+3654,City A,36,0.72,50.24,1.3,High risk zone,Infrastructure development in rural areas,TRUE,7370.96,14.9,Increasing,Poor,788083.43,FALSE
+3882,Coastal Area J,35,0.61,30.32,2.54,Low risk zone,Expansion of public transportation system,FALSE,787.34,19.59,Decreasing,Terrible,405605.24,FALSE
+6407,Neighborhood F,17,0.51,3.2,2.62,High risk zone,Expansion of public transportation system,TRUE,5467.47,63.36,Increasing,Terrible,307077.26,TRUE
+7664,Coastal Area J,20,0.76,73.25,3.46,Moderate risk zone,Construction of new schools,FALSE,8328.68,63.02,Decreasing,Terrible,206170.03,TRUE
+2380,Urban Area H,21,0.52,0.82,1.94,High risk zone,Construction of new schools,TRUE,4342.05,68.82,Decreasing,Terrible,273483.72,TRUE
+3562,City A,16,0.69,17.81,5.84,Low risk zone,Renovation of public parks,FALSE,9346.47,14.84,Increasing,Average,205238.6,TRUE
+2136,Rural Area G,9,0.42,12.11,6.75,Moderate risk zone,Renovation of public parks,FALSE,8130.9,29.12,Decreasing,Excellent,952590.59,TRUE
+6181,City A,22,0.12,55,8.39,High risk zone,Renovation of public parks,FALSE,348.86,43.07,Decreasing,Poor,978040.03,TRUE
+3874,Coastal Area J,22,0.59,20.6,3.15,Low risk zone,Renovation of public parks,TRUE,9446.19,94.01,Increasing,Poor,196999.5,TRUE
+5319,Town B,38,0.59,91.51,5.93,Low risk zone,Renovation of public parks,FALSE,4291.87,90.4,Decreasing,Good,54693.02,TRUE
+7955,Town B,38,0.2,56.84,0.07,Moderate risk zone,Construction of new schools,FALSE,504.87,68.03,Increasing,Terrible,604513.78,FALSE
+4330,Rural Area G,31,0.02,35.06,7.54,Low risk zone,Renovation of public parks,FALSE,3830.04,63.81,Decreasing,Average,374919.79,TRUE
+6648,Coastal Area J,46,0.55,4.15,8.58,Moderate risk zone,Construction of new schools,TRUE,6411.77,79.7,Decreasing,Excellent,351762.14,FALSE
+1994,Rural Area G,3,0.63,18.49,9.2,Moderate risk zone,Renovation of public parks,TRUE,3166.76,27.92,Stable,Terrible,290899.63,TRUE
+2166,Coastal Area J,12,0.34,99.03,3.55,Low risk zone,Infrastructure development in rural areas,FALSE,78.33,36.67,Stable,Poor,796734.92,TRUE
+1079,Rural Area G,31,0.09,42.5,8.23,Moderate risk zone,Renovation of public parks,TRUE,8444.11,35.02,Increasing,Poor,782071.68,TRUE
+9783,Neighborhood F,6,0.09,68.5,1.53,Moderate risk zone,Construction of new schools,TRUE,9236.71,83.5,Increasing,Average,230111.75,FALSE
+5614,Hamlet E,36,0.76,96,6.09,Moderate risk zone,Infrastructure development in rural areas,FALSE,7660.42,38.18,Decreasing,Good,338010.06,TRUE
+6460,Countryside I,18,0.9,91.99,1.52,Low risk zone,Expansion of public transportation system,TRUE,8525.32,24.44,Stable,Terrible,305924.92,TRUE
+2555,Countryside I,31,0.35,3.38,5.12,Moderate risk zone,Construction of new schools,TRUE,8123.52,63.51,Stable,Poor,501352.89,TRUE
+9047,Village C,20,0.95,44.19,6.34,High risk zone,Expansion of public transportation system,TRUE,7762.88,91.84,Stable,Good,896456.82,FALSE
+7587,Village C,12,0.31,46.99,1.19,Moderate risk zone,Infrastructure development in rural areas,TRUE,8946.96,15.1,Decreasing,Poor,118090.91,FALSE
+3588,Town B,18,0.45,60.16,8.28,High risk zone,Construction of new schools,TRUE,310.02,49.92,Increasing,Average,630844.47,TRUE
+4243,Neighborhood F,21,0.95,77.61,6.69,Moderate risk zone,Expansion of public transportation system,TRUE,9874.3,93.98,Increasing,Good,476734.47,FALSE
+4855,Coastal Area J,4,0.27,98.38,3.49,High risk zone,Infrastructure development in rural areas,FALSE,1829.8,63.54,Decreasing,Poor,628358.61,FALSE
+3758,City A,29,0.5,30.1,9.39,Moderate risk zone,Expansion of public transportation system,FALSE,3860.84,68.45,Stable,Average,870233.23,FALSE
+6553,Village C,5,0.35,68.89,5.51,Low risk zone,Construction of new schools,FALSE,4436.37,64.72,Decreasing,Good,936983.14,FALSE
+5827,Coastal Area J,33,0.11,35.49,6.57,High risk zone,Renovation of public parks,FALSE,1387.01,13.47,Stable,Good,548533.71,FALSE
+1383,Hamlet E,36,0.4,50.07,3.51,High risk zone,Renovation of public parks,TRUE,1290.59,72.49,Decreasing,Excellent,736249.22,FALSE
+3617,Suburb D,28,0.5,96.58,3.08,Low risk zone,Construction of new schools,FALSE,6483.7,49.9,Increasing,Good,960754.9,FALSE
+6437,Coastal Area J,12,0.21,8.28,6.57,High risk zone,Construction of new schools,FALSE,8351.3,48.5,Increasing,Good,590713.72,TRUE
+8707,Suburb D,31,0.33,80.1,9.64,Moderate risk zone,Expansion of public transportation system,FALSE,7706.16,79.84,Decreasing,Excellent,584806.58,FALSE
+8513,Countryside I,9,0.36,41.93,1.69,High risk zone,Infrastructure development in rural areas,FALSE,6643.33,94.93,Increasing,Poor,375677.38,FALSE
+2104,Urban Area H,22,0.56,64.77,8.07,High risk zone,Construction of new schools,TRUE,4817.64,71.99,Increasing,Good,642599.32,TRUE
+5510,Town B,42,0.67,88.94,8.41,High risk zone,Infrastructure development in rural areas,FALSE,5784.56,65.24,Stable,Excellent,484798.88,TRUE
+9907,Coastal Area J,17,0.14,50.52,7.06,Low risk zone,Construction of new schools,TRUE,113.19,1.18,Stable,Terrible,279903,TRUE
+7737,Neighborhood F,50,0.69,34.56,8.36,Moderate risk zone,Renovation of public parks,TRUE,3822.15,56.31,Stable,Average,719537.06,TRUE
+6684,Countryside I,37,0.42,47.77,5.08,Low risk zone,Renovation of public parks,TRUE,389.67,95.73,Increasing,Poor,997582.26,FALSE
+1081,Hamlet E,48,0.82,60.18,2.71,Low risk zone,Construction of new schools,TRUE,1540.62,15.21,Stable,Poor,165234.31,FALSE
+5888,Village C,28,0.03,42.29,5.9,Low risk zone,Expansion of public transportation system,FALSE,831.97,93.07,Decreasing,Poor,895160.35,FALSE
+7928,Suburb D,30,0.44,5.12,1.92,Moderate risk zone,Renovation of public parks,TRUE,7888.47,48.22,Decreasing,Poor,165610.47,TRUE
+3055,Village C,16,0.2,15.53,8.86,Low risk zone,Construction of new schools,FALSE,4201.77,32.7,Stable,Excellent,745356.04,FALSE
+1505,City A,3,0.35,87.51,4.78,Low risk zone,Construction of new schools,FALSE,4868.26,20.85,Increasing,Terrible,319508.83,FALSE
+6532,Countryside I,32,0.71,73.68,0.06,High risk zone,Expansion of public transportation system,TRUE,1843.1,14.41,Stable,Good,736172.38,TRUE
+3258,Urban Area H,16,0.22,16.36,2.13,Moderate risk zone,Renovation of public parks,FALSE,6797.18,70.22,Increasing,Terrible,303023.33,TRUE
+4098,Neighborhood F,32,0.98,70.23,0.22,Moderate risk zone,Renovation of public parks,TRUE,3578.28,75.38,Increasing,Terrible,671648.4,TRUE
+2370,Rural Area G,7,0,10.7,4.14,High risk zone,Renovation of public parks,FALSE,4656.02,42.14,Increasing,Good,678837.24,FALSE
+8333,Suburb D,23,0.69,24.55,1.54,Low risk zone,Construction of new schools,TRUE,2831.43,26.8,Increasing,Excellent,814769.25,FALSE
+7022,Hamlet E,25,0.4,33.49,7.28,High risk zone,Expansion of public transportation system,FALSE,6105.74,61.67,Increasing,Terrible,196307.9,FALSE
+4030,Town B,42,0.03,68.53,2.89,High risk zone,Infrastructure development in rural areas,TRUE,3992.31,31.95,Stable,Good,522933.54,TRUE
+2183,Suburb D,50,0.61,20.38,8.3,Low risk zone,Expansion of public transportation system,FALSE,5221.04,97.27,Increasing,Terrible,222483.7,TRUE
+7658,Neighborhood F,2,0.88,45.43,0.56,High risk zone,Infrastructure development in rural areas,TRUE,1673.63,9.47,Increasing,Excellent,642276.13,FALSE
+6944,Suburb D,37,0.5,32.25,2.07,High risk zone,Expansion of public transportation system,TRUE,2168.99,65.12,Decreasing,Average,368870.75,TRUE
+2002,City A,3,0.63,96.92,3.17,Moderate risk zone,Construction of new schools,FALSE,5926.33,36.51,Increasing,Good,38779.29,TRUE
+2137,Rural Area G,24,0.14,71.17,7.25,Moderate risk zone,Renovation of public parks,TRUE,5482.59,9.26,Stable,Terrible,876314.53,FALSE
+1260,Town B,24,0.85,82.92,8.63,Moderate risk zone,Construction of new schools,TRUE,1426.29,16.25,Increasing,Excellent,602346.41,TRUE
+9499,Hamlet E,17,0.48,58.2,6.37,High risk zone,Expansion of public transportation system,TRUE,456.66,81.8,Stable,Terrible,777869.37,FALSE
+3768,Hamlet E,37,0.54,58.27,0.46,Low risk zone,Construction of new schools,FALSE,3878.33,59.26,Decreasing,Excellent,606428.22,FALSE
+5808,Neighborhood F,13,0.29,16.41,5.88,Moderate risk zone,Renovation of public parks,FALSE,7686.57,36.44,Decreasing,Poor,621132.19,TRUE
+5634,Coastal Area J,20,0.49,61.56,4.46,Moderate risk zone,Expansion of public transportation system,TRUE,6453.76,24.97,Decreasing,Terrible,55615.76,FALSE
+7107,Town B,30,0.04,39.02,4.87,Low risk zone,Construction of new schools,FALSE,755.4,35.63,Decreasing,Average,567876.99,FALSE
